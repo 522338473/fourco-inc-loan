@@ -1,0 +1,48 @@
+from django.urls import path
+
+from loan.views.admin import user, product, medium, banner, medium_link, common, manager, system
+from loan.common import *
+
+handler404 = page_not_found
+urlpatterns = [
+    path('login', manager.login, name='login'),
+    path('u/logout', manager.logout, name='logout'),
+    path('u/manager', manager.createManager, name='createManager'),
+    path('u/manager/<int:managerId>/password', manager.updateManagerPassword, name='updateManagerPassword'),
+    path('u/manager/<int:managerId>', manager.getOrUpdateManager, name='getOrUpdateManager'),
+    path('u/manager/list', manager.getManagerList, name='getManagerList'),
+    path('u/user/list', user.getUserList, name='getUserList'),
+    path('u/product/list', product.getProductList, name='getProductList'),
+    path('u/product', product.createProduct, name='createProduct'),
+    path('u/product/<int:productId>', product.updateProduct, name='updateProduct'),
+    path('u/product/<int:productId>/detail', product.getProductDetail, name='getProductDetail'),
+    path('u/product/<int:productId>/status/<int:status>', product.updateProductStatus, name='updateProductStatus'),
+    path('u/product/<int:productId>/config/<int:isConfig>', product.updateProductConfig, name='updateProductConfig'),
+    path('u/product/sort', product.updateProductSort, name='updateProductSort'),
+    path('u/product/statistics', product.getProductStatistics, name='getProductStatistics'),
+    path('u/recommend/statistics', product.getRecommendProductStatistics, name='getRecommendProductStatistics'),
+    path('u/content', product.addContent, name='addContent'),
+    path('u/content/<int:contentId>', product.getOrUpdateContent, name='getOrUpdateContent'),
+    path('u/medium/list', medium.getMediumList, name='getMediumList'),
+    path('u/medium', medium.insertMedium, name='insertMedium'),
+    path('u/medium/<int:mediumId>', medium.updateMedium, name='updateMedium'),
+    path('u/medium/<int:mediumId>/<int:status>', medium.updateMediumStatus, name='updateMediumStatus'),
+    path('u/medium/name', medium.checkMediumName, name='checkMediumName'),
+    path('u/medium/statistics', medium.mediumStatistics, name='mediumStatistics'),
+    path('u/link/<int:mediumId>/list', medium_link.getMediumLinkList, name='getMediumLinkList'),
+    path('u/link', medium_link.insertMediumLink, name='insertMediumLink'),
+    path('u/link/<int:mediumLinkId>', medium_link.deleteMediumLink, name='deleteMediumLink'),
+    path('u/banner/list', banner.getBannerList, name='getBannerList'),
+    path('u/banner/<int:bannerId>/detail', banner.getBannerDetail, name='getBannerDetail'),
+    path('u/banner/<int:bannerId>/status/<int:status>', banner.updateBannerStatus, name='updateBannerStatus'),
+    path('u/banner', banner.insertBanner, name='insertBanner'),
+    path('u/banner/<int:bannerId>', banner.editBanner, name='deleteBanner'),
+    path('u/banner/<int:bannerId>', banner.editBanner, name='updateBanner'),
+    path('u/file', common.uploadFile, name='uploadFile'),
+    path('u/module', system.addModule, name='addModule'),
+    path('u/module/<int:moduleId>', system.updateModule, name='updateModule'),
+    path('u/module/list', system.getModules, name='getModules'),
+    path('u/role', system.addRole, name='addRole'),
+    path('u/role/<int:roleId>', system.updateRole, name='updateRole'),
+    path('u/role/list', system.getRoles, name='getRoles'),
+]

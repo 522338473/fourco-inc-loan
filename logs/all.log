@@ -1,0 +1,952 @@
+2018-08-03 22:39:33,770 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-03 22:39:33,771 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 18
+2018-08-03 22:39:33,771 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-03 22:39:33,775 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 18, 'name': '人人贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/06/20/20180620111718_45.png', 'status': 1, 'remark': '人人贷借款是人人贷精心打造的一款信用借款产品，无抵押，无担保。专业，不负信赖。', 'amountStart': Decimal('10000.00'), 'amountEnd': Decimal('100000.00'), 'url': 'https://loan.renrendai.com/static/public/lp-mini.html?rrdorigin=09082000400080000&utm_source=JDPTQD&utm_medium=JDPTQD_360DKW&utm_campaign=CPACPS&utm_content=20180507-7&utm_term=090820000', 'rateStart': Decimal('0.78'), 'rateEnd': Decimal('2.50'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1529464700087, 'updateAt': 1531711732172}
+2018-08-03 22:39:33,783 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-03 22:39:34,089 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-03 22:39:34,089 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 18
+2018-08-03 22:39:34,089 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-03 22:39:34,093 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 18, 'name': '人人贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/06/20/20180620111718_45.png', 'status': 1, 'remark': '人人贷借款是人人贷精心打造的一款信用借款产品，无抵押，无担保。专业，不负信赖。', 'amountStart': Decimal('10000.00'), 'amountEnd': Decimal('100000.00'), 'url': 'https://loan.renrendai.com/static/public/lp-mini.html?rrdorigin=09082000400080000&utm_source=JDPTQD&utm_medium=JDPTQD_360DKW&utm_campaign=CPACPS&utm_content=20180507-7&utm_term=090820000', 'rateStart': Decimal('0.78'), 'rateEnd': Decimal('2.50'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1529464700087, 'updateAt': 1531711732172}
+2018-08-03 22:39:34,104 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-03 23:03:20,490 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-03 23:03:20,490 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-03 23:03:20,490 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-03 23:03:20,494 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-03 23:03:20,502 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-04 09:49:19,379 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-04 09:49:19,380 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-04 09:49:19,380 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-04 09:49:19,382 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-04 09:49:19,385 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-04 09:49:19,386 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-04 09:49:19,387 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-04 09:49:19,389 [uWSGIWorker1Core0:140685758363712] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-04 09:49:19,389 [uWSGIWorker1Core0:140685758363712] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-04 09:49:19,390 [uWSGIWorker1Core0:140685758363712] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-04 09:49:19,391 [uWSGIWorker1Core0:140685758363712] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-04 09:49:19,391 [uWSGIWorker1Core0:140685758363712] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 701,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-04 09:49:19,391 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-04 09:49:19,392 [uWSGIWorker1Core0:140685758363712] [product:324] [product:distributionOrder] [INFO]- this relation is exists
+2018-08-04 09:49:19,392 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-04 09:49:19,394 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-04 09:49:19,396 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-04 09:49:19,396 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 701, 'nick': '谯力钊', 'idCard': '522228199508051215', 'mobile': '18286610084', 'isDone': 1, 'amount': 10000, 'estate': 3, 'car': 3, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 5, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533347243916, 'doneAt': 1533347326959, 'updateAt': 1533347326970, 'sex': 1, 'city': 522200, 'salaryPayment': 2, 'overdue': 1}
+2018-08-04 09:49:19,396 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u8c2f\u529b\u948a", "phone": "18286610084", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 0, "is_fund": 0, "is_insurance": 0, "id_card": "522228199508051215", "city_id": 522200, "profession": 5, "gender": 1, "salary_bank_private": 2, "salary": 6000}}
+2018-08-04 09:49:19,442 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-04 09:49:19,443 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-04 09:49:19,443 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-04 09:49:19,444 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-04 09:49:19,447 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-04 09:49:19,447 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 701, 'nick': '谯力钊', 'idCard': '522228199508051215', 'mobile': '18286610084', 'isDone': 1, 'amount': 10000, 'estate': 3, 'car': 3, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 5, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533347243916, 'doneAt': 1533347326959, 'updateAt': 1533347326970, 'sex': 1, 'city': 522200, 'salaryPayment': 2, 'overdue': 1}
+2018-08-04 09:49:19,447 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u8c2f\u529b\u948a", "phone": "18286610084", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 0, "is_fund": 0, "is_insurance": 0, "id_card": "522228199508051215", "city_id": 522200, "profession": 5, "gender": 1, "salary_bank_private": 2, "salary": 6000}}
+2018-08-04 09:49:19,491 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-04 09:49:19,491 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-04 09:51:46,289 [uWSGIWorker1Core1:140685490087680] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-04 09:51:46,289 [uWSGIWorker1Core1:140685490087680] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-04 09:54:34,116 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-04 09:54:34,116 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-04 09:54:34,116 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-04 09:54:34,121 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-04 09:54:34,129 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-04 11:00:07,083 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-04 11:00:07,084 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-04 11:00:07,084 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-04 11:00:07,086 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-04 11:00:07,090 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-04 11:00:07,092 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-04 11:00:07,092 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-04 11:00:07,096 [uWSGIWorker1Core1:140685490087680] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-04 11:00:07,096 [uWSGIWorker1Core1:140685490087680] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-04 11:01:52,570 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-04 11:01:52,570 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 23
+2018-08-04 11:01:52,570 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-04 11:01:52,574 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 23, 'name': '乐一贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716113859_94.png', 'status': 1, 'remark': '乐享生活，想贷就贷', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'http://www.lyloan.cn/lyd/c/r/channel', 'rateStart': Decimal('1.00'), 'rateEnd': Decimal('2.50'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712362752, 'updateAt': 1531712367880}
+2018-08-04 11:01:52,584 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-04 11:15:24,864 [uWSGIWorker1Core1:140685490087680] [login:70] [login:login] [INFO]- login start
+2018-08-04 11:15:24,864 [uWSGIWorker1Core1:140685490087680] [login:93] [login:login] [INFO]- host is zd.fourco-inc.com ,path is /loan/login ,referer is  
+2018-08-04 11:15:24,865 [uWSGIWorker1Core1:140685490087680] [login:95] [login:login] [INFO]- mobile is 13029875299 ,amount is 15000 ,validCode is 597224 , mediumId is 3, linkId is 11,url is http://zd.fourco-inc.com/login02?source=3&sub=11&template=02
+2018-08-04 11:15:24,873 [uWSGIWorker1Core1:140685490087680] [login:104] [login:login] [INFO]- TEST_MODEL is False
+2018-08-04 11:15:24,874 [uWSGIWorker1Core1:140685490087680] [login:110] [login:login] [INFO]- last sms id is 925 code is 597224
+2018-08-04 11:15:24,878 [uWSGIWorker1Core1:140685490087680] [login:127] [login:login] [INFO]- update user productIndex
+2018-08-04 11:15:24,888 [uWSGIWorker1Core1:140685490087680] [login:130] [login:login] [INFO]- this user id is 707,isDone is 0
+2018-08-04 13:57:23,698 [uWSGIWorker1Core0:140685758363712] [login:173] [login:sendCode] [INFO]- get validCode start
+2018-08-04 13:57:23,698 [uWSGIWorker1Core0:140685758363712] [login:181] [login:sendCode] [INFO]- mobile is 13212031933
+2018-08-04 13:57:23,705 [uWSGIWorker1Core0:140685758363712] [login:188] [login:sendCode] [INFO]- size is 0
+2018-08-04 13:57:23,768 [uWSGIWorker1Core0:140685758363712] [login:213] [login:sendCode] [INFO]- ret is http://sms.800617.com:4400/sms/SendSMS.aspx?un=bjsgyz-1&pwd=0f8e84&mobile=13212031933&msg=%E3%80%90360%E8%B4%B7%E6%AC%BE%E3%80%91%E6%82%A8%E7%9A%84%E9%AA%8C%E8%AF%81%E7%A0%81%E4%B8%BA581733%2C%E8%AF%B7%E5%9C%A810%E5%88%86%E9%92%9F%E5%86%85%E5%A1%AB%E5%86%99%E3%80%82
+2018-08-04 13:57:23,768 [uWSGIWorker1Core0:140685758363712] [login:214] [login:sendCode] [INFO]- ret is <?xml version="1.0" encoding="gb2312"?><Root><Result>1</Result><CtuId>01808041357240002270</CtuId><SendNum>1</SendNum><MobileNum>1</MobileNum></Root>
+2018-08-04 13:57:23,768 [uWSGIWorker1Core0:140685758363712] [login:218] [login:sendCode] [INFO]- xml is <?xml version="1.0" encoding="gb2312"?><Root><Result>1</Result><CtuId>01808041357240002270</CtuId><SendNum>1</SendNum><MobileNum>1</MobileNum></Root>
+2018-08-04 13:57:23,768 [uWSGIWorker1Core0:140685758363712] [login:223] [login:sendCode] [INFO]- key is Result
+2018-08-04 13:57:23,768 [uWSGIWorker1Core0:140685758363712] [login:224] [login:sendCode] [INFO]- value is 1
+2018-08-04 13:57:23,775 [uWSGIWorker1Core0:140685758363712] [login:233] [login:sendCode] [INFO]- sms save success
+2018-08-04 14:12:10,421 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-04 14:12:10,421 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-04 14:12:10,421 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-04 14:12:10,423 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-04 14:12:10,426 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-04 14:12:10,428 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-04 14:12:10,428 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-04 14:12:10,430 [uWSGIWorker1Core1:140685490087680] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-04 14:12:10,430 [uWSGIWorker1Core1:140685490087680] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-04 15:00:46,028 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-04 15:00:46,028 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-04 15:00:46,028 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-04 15:00:46,030 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-04 15:00:46,037 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-04 15:00:46,039 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-04 15:00:46,039 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-04 15:00:46,042 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-04 15:00:46,043 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-04 15:46:14,813 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-04 15:46:14,813 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-04 15:46:14,814 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-04 15:46:14,816 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-04 15:46:14,819 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-04 15:46:14,822 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-04 15:46:14,822 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-04 15:46:14,825 [uWSGIWorker1Core1:140685490087680] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-04 15:46:14,825 [uWSGIWorker1Core1:140685490087680] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-04 19:59:22,354 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-04 19:59:22,354 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-04 19:59:22,354 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-04 19:59:22,356 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-04 19:59:22,359 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-04 19:59:22,361 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-04 19:59:22,361 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-04 19:59:22,363 [uWSGIWorker1Core0:140685758363712] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-04 19:59:22,363 [uWSGIWorker1Core0:140685758363712] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-04 19:59:22,365 [uWSGIWorker1Core0:140685758363712] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-04 19:59:22,365 [uWSGIWorker1Core0:140685758363712] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-04 19:59:22,365 [uWSGIWorker1Core0:140685758363712] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 729,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-04 19:59:22,365 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-04 19:59:22,366 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-04 19:59:22,369 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-04 19:59:22,369 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 729, 'nick': '刘旭', 'idCard': '321088198602091734', 'mobile': '13773575431', 'isDone': 1, 'amount': 30000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 2, 'livingTime': 2, 'profession': 1, 'income': 3, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533383899122, 'doneAt': 1533383962048, 'updateAt': 1533383962059, 'sex': 1, 'city': 321000, 'salaryPayment': 3, 'overdue': 1}
+2018-08-04 19:59:22,369 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5218\u65ed", "phone": "13773575431", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 30000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "321088198602091734", "city_id": 321000, "profession": 1, "gender": 1, "salary_bank_private": 3, "salary": 10000}}
+2018-08-04 19:59:22,416 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-04 19:59:22,416 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-04 19:59:22,417 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-04 19:59:22,418 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-04 19:59:22,421 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-04 19:59:22,421 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 729, 'nick': '刘旭', 'idCard': '321088198602091734', 'mobile': '13773575431', 'isDone': 1, 'amount': 30000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 2, 'livingTime': 2, 'profession': 1, 'income': 3, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533383899122, 'doneAt': 1533383962048, 'updateAt': 1533383962059, 'sex': 1, 'city': 321000, 'salaryPayment': 3, 'overdue': 1}
+2018-08-04 19:59:22,421 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5218\u65ed", "phone": "13773575431", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 30000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "321088198602091734", "city_id": 321000, "profession": 1, "gender": 1, "salary_bank_private": 3, "salary": 10000}}
+2018-08-04 19:59:22,465 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-04 19:59:22,465 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-04 19:59:22,466 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-04 19:59:22,467 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-04 19:59:22,470 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-04 19:59:22,470 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 729, 'nick': '刘旭', 'idCard': '321088198602091734', 'mobile': '13773575431', 'isDone': 1, 'amount': 30000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 2, 'livingTime': 2, 'profession': 1, 'income': 3, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533383899122, 'doneAt': 1533383962048, 'updateAt': 1533383962059, 'sex': 1, 'city': 321000, 'salaryPayment': 3, 'overdue': 1}
+2018-08-04 19:59:22,470 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5218\u65ed", "phone": "13773575431", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 30000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "321088198602091734", "city_id": 321000, "profession": 1, "gender": 1, "salary_bank_private": 3, "salary": 10000}}
+2018-08-04 19:59:22,530 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-04 19:59:22,530 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-04 21:38:33,362 [uWSGIWorker1Core1:140685490087680] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-04 21:38:33,362 [uWSGIWorker1Core1:140685490087680] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-04 21:39:40,401 [uWSGIWorker1Core0:140685758363712] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-04 21:39:40,401 [uWSGIWorker1Core0:140685758363712] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-04 22:53:56,759 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-04 22:53:56,760 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-04 22:53:56,760 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-04 22:53:56,762 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-04 22:53:56,765 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-04 22:53:56,766 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-04 22:53:56,767 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-04 22:53:56,769 [uWSGIWorker1Core1:140685490087680] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-04 22:53:56,769 [uWSGIWorker1Core1:140685490087680] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-04 22:53:56,770 [uWSGIWorker1Core1:140685490087680] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-04 22:53:56,771 [uWSGIWorker1Core1:140685490087680] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-04 22:53:56,771 [uWSGIWorker1Core1:140685490087680] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 735,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-04 22:53:56,771 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-04 22:53:56,772 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-04 22:53:56,775 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-04 22:53:56,775 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 735, 'nick': '刘斌', 'idCard': '411224199912308519', 'mobile': '15978325075', 'isDone': 1, 'amount': 10000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 1, 'workExp': 1, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533394394679, 'doneAt': 1533394436370, 'updateAt': 1533394436381, 'sex': 1, 'city': 110100, 'salaryPayment': 2, 'overdue': 1}
+2018-08-04 22:53:56,775 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5218\u658c", "phone": "15978325075", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "411224199912308519", "city_id": 110100, "profession": 1, "gender": 1, "salary_bank_private": 2, "salary": 6000}}
+2018-08-04 22:53:56,839 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":0,"errMsg":"","data":[]}
+2018-08-04 22:53:56,839 [uWSGIWorker1Core1:140685490087680] [product:279] [product:distributionOrder] [INFO]- sendUserData success
+2018-08-04 22:53:56,846 [uWSGIWorker1Core1:140685490087680] [product:296] [product:distributionOrder] [INFO]- create relation success
+2018-08-04 22:53:56,848 [uWSGIWorker1Core1:140685490087680] [product:303] [product:distributionOrder] [INFO]- update today statistics data
+2018-08-04 22:53:56,848 [uWSGIWorker1Core1:140685490087680] [product:306] [product:distributionOrder] [INFO]- a new order
+2018-08-04 22:53:56,856 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-04 22:53:56,857 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-04 22:53:56,860 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-04 22:53:56,860 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 735, 'nick': '刘斌', 'idCard': '411224199912308519', 'mobile': '15978325075', 'isDone': 1, 'amount': 10000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 1, 'workExp': 1, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533394394679, 'doneAt': 1533394436370, 'updateAt': 1533394436381, 'sex': 1, 'city': 110100, 'salaryPayment': 2, 'overdue': 1}
+2018-08-04 22:53:56,860 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5218\u658c", "phone": "15978325075", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "411224199912308519", "city_id": 110100, "profession": 1, "gender": 1, "salary_bank_private": 2, "salary": 6000}}
+2018-08-04 22:53:56,921 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-04 22:53:56,921 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-04 22:53:56,921 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-04 22:53:56,923 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-04 22:53:56,925 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-04 22:53:56,926 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 735, 'nick': '刘斌', 'idCard': '411224199912308519', 'mobile': '15978325075', 'isDone': 1, 'amount': 10000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 1, 'workExp': 1, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533394394679, 'doneAt': 1533394436370, 'updateAt': 1533394436381, 'sex': 1, 'city': 110100, 'salaryPayment': 2, 'overdue': 1}
+2018-08-04 22:53:56,926 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5218\u658c", "phone": "15978325075", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "411224199912308519", "city_id": 110100, "profession": 1, "gender": 1, "salary_bank_private": 2, "salary": 6000}}
+2018-08-04 22:53:56,971 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-04 22:53:56,972 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 07:26:27,378 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 07:26:27,378 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 07:26:27,379 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 07:26:27,381 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 07:26:27,383 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 07:26:27,385 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 07:26:27,385 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 07:26:27,388 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 07:26:27,388 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 07:28:03,850 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 07:28:03,850 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 23
+2018-08-05 07:28:03,850 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 07:28:03,854 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 23, 'name': '乐一贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716113859_94.png', 'status': 1, 'remark': '乐享生活，想贷就贷', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'http://www.lyloan.cn/lyd/c/r/channel', 'rateStart': Decimal('1.00'), 'rateEnd': Decimal('2.50'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712362752, 'updateAt': 1531712367880}
+2018-08-05 07:28:03,862 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 09:05:34,123 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 09:05:34,123 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 09:05:34,124 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 09:05:34,126 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 09:05:34,128 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 09:05:34,130 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 09:05:34,130 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 09:05:34,133 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 09:05:34,133 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 09:05:57,432 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 09:05:57,432 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 23
+2018-08-05 09:05:57,432 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 09:05:57,436 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 23, 'name': '乐一贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716113859_94.png', 'status': 1, 'remark': '乐享生活，想贷就贷', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'http://www.lyloan.cn/lyd/c/r/channel', 'rateStart': Decimal('1.00'), 'rateEnd': Decimal('2.50'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712362752, 'updateAt': 1531712367880}
+2018-08-05 09:05:57,445 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 09:32:34,727 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 09:32:34,727 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 09:32:34,727 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-05 09:32:34,730 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-05 09:32:34,733 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-05 09:32:34,735 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 09:32:34,736 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 09:32:34,739 [uWSGIWorker1Core0:140685758363712] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-05 09:32:34,739 [uWSGIWorker1Core0:140685758363712] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-05 09:32:34,741 [uWSGIWorker1Core0:140685758363712] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-05 09:32:34,741 [uWSGIWorker1Core0:140685758363712] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-05 09:32:34,741 [uWSGIWorker1Core0:140685758363712] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 741,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-05 09:32:34,741 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-05 09:32:34,743 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 09:32:34,746 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 09:32:34,747 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 741, 'nick': '杨宁国', 'idCard': '640122199810230072', 'mobile': '18013074253', 'isDone': 1, 'amount': 5000, 'estate': 3, 'car': 3, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 1, 'profession': 3, 'income': 0, 'provident': 0, 'workExp': 0, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533432679753, 'doneAt': 1533432754117, 'updateAt': 1533432754127, 'sex': 1, 'city': 320500, 'salaryPayment': 0, 'overdue': 2}
+2018-08-05 09:32:34,747 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6768\u5b81\u56fd", "phone": "18013074253", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 5000, "repay_term": 12, "credit": 2, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "640122199810230072", "city_id": 320500, "profession": 3, "gender": 1, "salary_bank_private": 0, "salary": 0}}
+2018-08-05 09:32:34,827 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":0,"errMsg":"","data":[]}
+2018-08-05 09:32:34,827 [uWSGIWorker1Core0:140685758363712] [product:279] [product:distributionOrder] [INFO]- sendUserData success
+2018-08-05 09:32:34,834 [uWSGIWorker1Core0:140685758363712] [product:296] [product:distributionOrder] [INFO]- create relation success
+2018-08-05 09:32:34,836 [uWSGIWorker1Core0:140685758363712] [product:303] [product:distributionOrder] [INFO]- update today statistics data
+2018-08-05 09:32:34,836 [uWSGIWorker1Core0:140685758363712] [product:306] [product:distributionOrder] [INFO]- a new order
+2018-08-05 09:32:34,845 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-05 09:32:34,847 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 09:32:34,849 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 09:32:34,849 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 741, 'nick': '杨宁国', 'idCard': '640122199810230072', 'mobile': '18013074253', 'isDone': 1, 'amount': 5000, 'estate': 3, 'car': 3, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 1, 'profession': 3, 'income': 0, 'provident': 0, 'workExp': 0, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533432679753, 'doneAt': 1533432754117, 'updateAt': 1533432754127, 'sex': 1, 'city': 320500, 'salaryPayment': 0, 'overdue': 2}
+2018-08-05 09:32:34,850 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6768\u5b81\u56fd", "phone": "18013074253", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 5000, "repay_term": 12, "credit": 2, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "640122199810230072", "city_id": 320500, "profession": 3, "gender": 1, "salary_bank_private": 0, "salary": 0}}
+2018-08-05 09:32:34,910 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-05 09:32:34,910 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 09:32:34,910 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-05 09:32:34,912 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 09:32:34,914 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 09:32:34,914 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 741, 'nick': '杨宁国', 'idCard': '640122199810230072', 'mobile': '18013074253', 'isDone': 1, 'amount': 5000, 'estate': 3, 'car': 3, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 1, 'profession': 3, 'income': 0, 'provident': 0, 'workExp': 0, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533432679753, 'doneAt': 1533432754117, 'updateAt': 1533432754127, 'sex': 1, 'city': 320500, 'salaryPayment': 0, 'overdue': 2}
+2018-08-05 09:32:34,915 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6768\u5b81\u56fd", "phone": "18013074253", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 5000, "repay_term": 12, "credit": 2, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "640122199810230072", "city_id": 320500, "profession": 3, "gender": 1, "salary_bank_private": 0, "salary": 0}}
+2018-08-05 09:32:34,976 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-05 09:32:34,976 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 09:56:27,648 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 09:56:27,648 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 09:56:27,648 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 09:56:27,650 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 09:56:27,653 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 09:56:27,655 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 09:56:27,655 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 09:56:27,657 [uWSGIWorker1Core1:140685490087680] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 09:56:27,657 [uWSGIWorker1Core1:140685490087680] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 10:19:43,420 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 10:19:43,420 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 10:19:43,420 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-05 10:19:43,422 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-05 10:19:43,425 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-05 10:19:43,427 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 10:19:43,427 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 10:19:43,429 [uWSGIWorker1Core0:140685758363712] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-05 10:19:43,429 [uWSGIWorker1Core0:140685758363712] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-05 10:19:43,430 [uWSGIWorker1Core0:140685758363712] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-05 10:19:43,431 [uWSGIWorker1Core0:140685758363712] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-05 10:19:43,431 [uWSGIWorker1Core0:140685758363712] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 745,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-05 10:19:43,431 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-05 10:19:43,432 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 10:19:43,435 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 10:19:43,435 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 745, 'nick': '杨辉', 'idCard': '13070519801229003X', 'mobile': '13231127370', 'isDone': 1, 'amount': 20000, 'estate': 1, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533435510428, 'doneAt': 1533435582791, 'updateAt': 1533435582801, 'sex': 1, 'city': 130100, 'salaryPayment': 1, 'overdue': 1}
+2018-08-05 10:19:43,435 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6768\u8f89", "phone": "13231127370", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 20000, "repay_term": 12, "credit": 1, "house": 1, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "13070519801229003X", "city_id": 130100, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 6000}}
+2018-08-05 10:19:43,508 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":0,"errMsg":"","data":[]}
+2018-08-05 10:19:43,508 [uWSGIWorker1Core0:140685758363712] [product:279] [product:distributionOrder] [INFO]- sendUserData success
+2018-08-05 10:19:43,516 [uWSGIWorker1Core0:140685758363712] [product:296] [product:distributionOrder] [INFO]- create relation success
+2018-08-05 10:19:43,518 [uWSGIWorker1Core0:140685758363712] [product:303] [product:distributionOrder] [INFO]- update today statistics data
+2018-08-05 10:19:43,518 [uWSGIWorker1Core0:140685758363712] [product:306] [product:distributionOrder] [INFO]- a new order
+2018-08-05 10:19:43,525 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-05 10:19:43,527 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 10:19:43,529 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 10:19:43,529 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 745, 'nick': '杨辉', 'idCard': '13070519801229003X', 'mobile': '13231127370', 'isDone': 1, 'amount': 20000, 'estate': 1, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533435510428, 'doneAt': 1533435582791, 'updateAt': 1533435582801, 'sex': 1, 'city': 130100, 'salaryPayment': 1, 'overdue': 1}
+2018-08-05 10:19:43,529 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6768\u8f89", "phone": "13231127370", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 20000, "repay_term": 12, "credit": 1, "house": 1, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "13070519801229003X", "city_id": 130100, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 6000}}
+2018-08-05 10:19:43,599 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-05 10:19:43,599 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 10:19:43,600 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-05 10:19:43,601 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 10:19:43,604 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 10:19:43,604 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 745, 'nick': '杨辉', 'idCard': '13070519801229003X', 'mobile': '13231127370', 'isDone': 1, 'amount': 20000, 'estate': 1, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533435510428, 'doneAt': 1533435582791, 'updateAt': 1533435582801, 'sex': 1, 'city': 130100, 'salaryPayment': 1, 'overdue': 1}
+2018-08-05 10:19:43,604 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6768\u8f89", "phone": "13231127370", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 20000, "repay_term": 12, "credit": 1, "house": 1, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "13070519801229003X", "city_id": 130100, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 6000}}
+2018-08-05 10:19:43,663 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-05 10:19:43,663 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 10:43:46,013 [uWSGIWorker1Core1:140685490087680] [login:251] [login:editUserInfo] [INFO]- edit user info start
+2018-08-05 10:43:46,014 [uWSGIWorker1Core1:140685490087680] [login:252] [login:editUserInfo] [INFO]- uid is 747
+2018-08-05 10:43:46,014 [uWSGIWorker1Core1:140685490087680] [django:75] [common:getRequestUid] [INFO]- request uid is 747
+2018-08-05 10:43:46,015 [uWSGIWorker1Core1:140685490087680] [login:258] [login:editUserInfo] [INFO]- update user start
+2018-08-05 10:43:46,018 [uWSGIWorker1Core1:140685490087680] [login:266] [login:editUserInfo] [INFO]- flag is 233,
+2018-08-05 10:43:46,018 [uWSGIWorker1Core1:140685490087680] [login:284] [login:editUserInfo] [INFO]- this user is old
+2018-08-05 10:43:46,027 [uWSGIWorker1Core1:140685490087680] [login:289] [login:editUserInfo] [INFO]- update user end
+2018-08-05 10:43:46,349 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 10:43:46,350 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 10:43:46,350 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 10:43:46,352 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 10:43:46,354 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 10:43:46,356 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 10:43:46,356 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 10:43:46,358 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 10:43:46,359 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 13:08:56,450 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 13:08:56,450 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 13:08:56,450 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 13:08:56,453 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 13:08:56,456 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 13:08:56,458 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 13:08:56,458 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 13:08:56,460 [uWSGIWorker1Core1:140685490087680] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 13:08:56,461 [uWSGIWorker1Core1:140685490087680] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 13:10:09,894 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 13:10:09,894 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-05 13:10:09,895 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 13:10:09,900 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-05 13:10:09,910 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 13:10:11,098 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 13:10:11,099 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-05 13:10:11,099 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 13:10:11,104 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-05 13:10:11,113 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 13:10:11,404 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 13:10:11,404 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-05 13:10:11,404 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 13:10:11,410 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-05 13:10:11,419 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 13:10:11,712 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 13:10:11,713 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-05 13:10:11,713 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 13:10:11,718 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-05 13:10:11,727 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 13:10:29,618 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 13:10:29,619 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-05 13:10:29,619 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 13:10:29,623 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-05 13:10:29,631 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 13:10:29,799 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 13:10:29,799 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-05 13:10:29,799 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 13:10:29,804 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-05 13:10:29,812 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 14:25:05,983 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 14:25:05,983 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 14:25:05,983 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 14:25:05,985 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 14:25:05,988 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 14:25:05,990 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 14:25:05,990 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 14:25:05,993 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 14:25:05,993 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 14:43:13,836 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 14:43:13,836 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 14:43:13,836 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-05 14:43:13,838 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-05 14:43:13,841 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-05 14:43:13,842 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 14:43:13,843 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 14:43:13,845 [uWSGIWorker1Core1:140685490087680] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-05 14:43:13,845 [uWSGIWorker1Core1:140685490087680] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-05 14:43:13,846 [uWSGIWorker1Core1:140685490087680] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-05 14:43:13,847 [uWSGIWorker1Core1:140685490087680] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-05 14:43:13,847 [uWSGIWorker1Core1:140685490087680] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 754,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-05 14:43:13,847 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-05 14:43:13,848 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 14:43:13,851 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 14:43:13,851 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 754, 'nick': '熊凡', 'idCard': '360203199507132030', 'mobile': '17679280595', 'isDone': 1, 'amount': 10000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 1, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533451319900, 'doneAt': 1533451393268, 'updateAt': 1533451393279, 'sex': 1, 'city': 360200, 'salaryPayment': 1, 'overdue': 2}
+2018-08-05 14:43:13,851 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u718a\u51e1", "phone": "17679280595", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 2, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "360203199507132030", "city_id": 360200, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 4000}}
+2018-08-05 14:43:13,918 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":0,"errMsg":"","data":[]}
+2018-08-05 14:43:13,919 [uWSGIWorker1Core1:140685490087680] [product:279] [product:distributionOrder] [INFO]- sendUserData success
+2018-08-05 14:43:13,926 [uWSGIWorker1Core1:140685490087680] [product:296] [product:distributionOrder] [INFO]- create relation success
+2018-08-05 14:43:13,928 [uWSGIWorker1Core1:140685490087680] [product:303] [product:distributionOrder] [INFO]- update today statistics data
+2018-08-05 14:43:13,928 [uWSGIWorker1Core1:140685490087680] [product:306] [product:distributionOrder] [INFO]- a new order
+2018-08-05 14:43:13,936 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-05 14:43:13,938 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 14:43:13,940 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 14:43:13,940 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 754, 'nick': '熊凡', 'idCard': '360203199507132030', 'mobile': '17679280595', 'isDone': 1, 'amount': 10000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 1, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533451319900, 'doneAt': 1533451393268, 'updateAt': 1533451393279, 'sex': 1, 'city': 360200, 'salaryPayment': 1, 'overdue': 2}
+2018-08-05 14:43:13,940 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u718a\u51e1", "phone": "17679280595", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 2, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "360203199507132030", "city_id": 360200, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 4000}}
+2018-08-05 14:43:14,002 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-05 14:43:14,002 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 14:43:14,002 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-05 14:43:14,004 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 14:43:14,006 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 14:43:14,006 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 754, 'nick': '熊凡', 'idCard': '360203199507132030', 'mobile': '17679280595', 'isDone': 1, 'amount': 10000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 1, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533451319900, 'doneAt': 1533451393268, 'updateAt': 1533451393279, 'sex': 1, 'city': 360200, 'salaryPayment': 1, 'overdue': 2}
+2018-08-05 14:43:14,006 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u718a\u51e1", "phone": "17679280595", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 2, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "360203199507132030", "city_id": 360200, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 4000}}
+2018-08-05 14:43:14,050 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-05 14:43:14,051 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 15:06:23,359 [uWSGIWorker1Core0:140685758363712] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-05 15:06:23,359 [uWSGIWorker1Core0:140685758363712] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-05 16:22:52,856 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 16:22:52,856 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 16:22:52,856 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 16:22:52,858 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 16:22:52,861 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 16:22:52,863 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 16:22:52,863 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 16:22:52,866 [uWSGIWorker1Core1:140685490087680] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 16:22:52,866 [uWSGIWorker1Core1:140685490087680] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 17:46:53,674 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 17:46:53,675 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 17:46:53,675 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 17:46:53,677 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 17:46:53,680 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 17:46:53,682 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 17:46:53,682 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 17:46:53,684 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 17:46:53,684 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 20:43:55,198 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 20:43:55,198 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 20:43:55,198 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-05 20:43:55,200 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-05 20:43:55,203 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-05 20:43:55,205 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 20:43:55,205 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 20:43:55,207 [uWSGIWorker1Core1:140685490087680] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-05 20:43:55,207 [uWSGIWorker1Core1:140685490087680] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-05 20:43:55,209 [uWSGIWorker1Core1:140685490087680] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-05 20:43:55,209 [uWSGIWorker1Core1:140685490087680] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-05 20:43:55,209 [uWSGIWorker1Core1:140685490087680] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 768,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-05 20:43:55,209 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-05 20:43:55,211 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 20:43:55,213 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 20:43:55,213 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 768, 'nick': '张鹤', 'idCard': '21142119930127481X', 'mobile': '13784495111', 'isDone': 1, 'amount': 30000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533472946157, 'doneAt': 1533473034803, 'updateAt': 1533473034814, 'sex': 1, 'city': 130800, 'salaryPayment': 2, 'overdue': 1}
+2018-08-05 20:43:55,213 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5f20\u9e64", "phone": "13784495111", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 30000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "21142119930127481X", "city_id": 130800, "profession": 1, "gender": 1, "salary_bank_private": 2, "salary": 6000}}
+2018-08-05 20:43:55,278 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":0,"errMsg":"","data":[]}
+2018-08-05 20:43:55,278 [uWSGIWorker1Core1:140685490087680] [product:279] [product:distributionOrder] [INFO]- sendUserData success
+2018-08-05 20:43:55,285 [uWSGIWorker1Core1:140685490087680] [product:296] [product:distributionOrder] [INFO]- create relation success
+2018-08-05 20:43:55,287 [uWSGIWorker1Core1:140685490087680] [product:303] [product:distributionOrder] [INFO]- update today statistics data
+2018-08-05 20:43:55,287 [uWSGIWorker1Core1:140685490087680] [product:306] [product:distributionOrder] [INFO]- a new order
+2018-08-05 20:43:55,295 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-05 20:43:55,296 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 20:43:55,299 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 20:43:55,299 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 768, 'nick': '张鹤', 'idCard': '21142119930127481X', 'mobile': '13784495111', 'isDone': 1, 'amount': 30000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533472946157, 'doneAt': 1533473034803, 'updateAt': 1533473034814, 'sex': 1, 'city': 130800, 'salaryPayment': 2, 'overdue': 1}
+2018-08-05 20:43:55,299 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5f20\u9e64", "phone": "13784495111", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 30000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "21142119930127481X", "city_id": 130800, "profession": 1, "gender": 1, "salary_bank_private": 2, "salary": 6000}}
+2018-08-05 20:43:55,347 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-05 20:43:55,347 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 20:43:55,347 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-05 20:43:55,349 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-05 20:43:55,351 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-05 20:43:55,351 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 768, 'nick': '张鹤', 'idCard': '21142119930127481X', 'mobile': '13784495111', 'isDone': 1, 'amount': 30000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533472946157, 'doneAt': 1533473034803, 'updateAt': 1533473034814, 'sex': 1, 'city': 130800, 'salaryPayment': 2, 'overdue': 1}
+2018-08-05 20:43:55,351 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5f20\u9e64", "phone": "13784495111", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 30000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "21142119930127481X", "city_id": 130800, "profession": 1, "gender": 1, "salary_bank_private": 2, "salary": 6000}}
+2018-08-05 20:43:55,414 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-05 20:43:55,414 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-05 21:29:58,968 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-05 21:29:58,968 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-05 21:29:58,969 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-05 21:29:58,971 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-05 21:29:58,973 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-05 21:29:58,975 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-05 21:29:58,975 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-05 21:29:58,978 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-05 21:29:58,978 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-05 22:30:55,133 [uWSGIWorker1Core1:140685490087680] [login:70] [login:login] [INFO]- login start
+2018-08-05 22:30:55,134 [uWSGIWorker1Core1:140685490087680] [login:93] [login:login] [INFO]- host is zd.fourco-inc.com ,path is /loan/login ,referer is  
+2018-08-05 22:30:55,134 [uWSGIWorker1Core1:140685490087680] [login:95] [login:login] [INFO]- mobile is 13665073004 ,amount is 50000 ,validCode is 592235 , mediumId is 3, linkId is 11,url is http://zd.fourco-inc.com/login02?source=3&sub=11&template=02
+2018-08-05 22:30:55,141 [uWSGIWorker1Core1:140685490087680] [login:104] [login:login] [INFO]- TEST_MODEL is False
+2018-08-05 22:30:55,142 [uWSGIWorker1Core1:140685490087680] [login:110] [login:login] [INFO]- last sms id is 1001 code is 592235
+2018-08-05 22:30:55,147 [uWSGIWorker1Core1:140685490087680] [login:127] [login:login] [INFO]- update user productIndex
+2018-08-05 22:30:55,155 [uWSGIWorker1Core1:140685490087680] [login:130] [login:login] [INFO]- this user id is 773,isDone is 0
+2018-08-05 22:30:55,418 [uWSGIWorker1Core0:140685758363712] [login:70] [login:login] [INFO]- login start
+2018-08-05 22:30:55,419 [uWSGIWorker1Core0:140685758363712] [login:93] [login:login] [INFO]- host is zd.fourco-inc.com ,path is /loan/login ,referer is  
+2018-08-05 22:30:55,419 [uWSGIWorker1Core0:140685758363712] [login:95] [login:login] [INFO]- mobile is 13665073004 ,amount is 50000 ,validCode is 592235 , mediumId is 3, linkId is 11,url is http://zd.fourco-inc.com/login02?source=3&sub=11&template=02
+2018-08-05 22:30:55,426 [uWSGIWorker1Core0:140685758363712] [login:104] [login:login] [INFO]- TEST_MODEL is False
+2018-08-05 22:30:55,427 [uWSGIWorker1Core0:140685758363712] [login:110] [login:login] [INFO]- last sms id is 1001 code is 592235
+2018-08-05 22:30:55,431 [uWSGIWorker1Core0:140685758363712] [login:127] [login:login] [INFO]- update user productIndex
+2018-08-05 22:30:55,439 [uWSGIWorker1Core0:140685758363712] [login:130] [login:login] [INFO]- this user id is 773,isDone is 0
+2018-08-05 22:59:26,425 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 22:59:26,425 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-05 22:59:26,425 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 22:59:26,429 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-05 22:59:26,438 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-05 22:59:27,882 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-05 22:59:27,882 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 26
+2018-08-05 22:59:27,882 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-05 22:59:27,886 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 26, 'name': '海草钱包', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114230_11.png', 'status': 1, 'remark': '海草钱包，借钱无忧。', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('3000.00'), 'url': 'http://wdxianjin.cn/index.html?channel=0802', 'rateStart': Decimal('10.00'), 'rateEnd': Decimal('10.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712576521, 'updateAt': 1531712581525}
+2018-08-05 22:59:27,894 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 00:29:34,245 [uWSGIWorker1Core1:140685490087680] [login:311] [login:getUserInfo] [INFO]- edit user info start
+2018-08-06 00:29:34,245 [uWSGIWorker1Core1:140685490087680] [login:312] [login:getUserInfo] [INFO]- uid is 777
+2018-08-06 00:29:34,245 [uWSGIWorker1Core1:140685490087680] [django:75] [common:getRequestUid] [INFO]- request uid is 777
+2018-08-06 00:29:34,245 [uWSGIWorker1Core1:140685490087680] [login:314] [login:getUserInfo] [INFO]- get user detail start
+2018-08-06 00:29:34,248 [uWSGIWorker1Core1:140685490087680] [login:317] [login:getUserInfo] [INFO]- get user detail end
+2018-08-06 02:24:09,916 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-06 02:24:09,916 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-06 02:24:09,917 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-06 02:24:09,919 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-06 02:24:09,923 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-06 02:24:09,925 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-06 02:24:09,925 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-06 02:24:09,928 [uWSGIWorker1Core0:140685758363712] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-06 02:24:09,928 [uWSGIWorker1Core0:140685758363712] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-06 02:24:09,930 [uWSGIWorker1Core0:140685758363712] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-06 02:24:09,930 [uWSGIWorker1Core0:140685758363712] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-06 02:24:09,931 [uWSGIWorker1Core0:140685758363712] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 779,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-06 02:24:09,931 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-06 02:24:09,933 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-06 02:24:09,936 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-06 02:24:09,936 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 779, 'nick': '龙奇兴', 'idCard': '530325199509291559', 'mobile': '15974615702', 'isDone': 1, 'amount': 5000, 'estate': 3, 'car': 3, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 1, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533493279228, 'doneAt': 1533493449260, 'updateAt': 1533493449270, 'sex': 1, 'city': 530300, 'salaryPayment': 1, 'overdue': 1}
+2018-08-06 02:24:09,936 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u9f99\u5947\u5174", "phone": "15974615702", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 5000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "530325199509291559", "city_id": 530300, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 4000}}
+2018-08-06 02:24:10,054 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":0,"errMsg":"","data":[]}
+2018-08-06 02:24:10,054 [uWSGIWorker1Core0:140685758363712] [product:279] [product:distributionOrder] [INFO]- sendUserData success
+2018-08-06 02:24:10,061 [uWSGIWorker1Core0:140685758363712] [product:296] [product:distributionOrder] [INFO]- create relation success
+2018-08-06 02:24:10,063 [uWSGIWorker1Core0:140685758363712] [product:303] [product:distributionOrder] [INFO]- update today statistics data
+2018-08-06 02:24:10,063 [uWSGIWorker1Core0:140685758363712] [product:306] [product:distributionOrder] [INFO]- a new order
+2018-08-06 02:24:10,070 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-06 02:24:10,071 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-06 02:24:10,073 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-06 02:24:10,073 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 779, 'nick': '龙奇兴', 'idCard': '530325199509291559', 'mobile': '15974615702', 'isDone': 1, 'amount': 5000, 'estate': 3, 'car': 3, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 1, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533493279228, 'doneAt': 1533493449260, 'updateAt': 1533493449270, 'sex': 1, 'city': 530300, 'salaryPayment': 1, 'overdue': 1}
+2018-08-06 02:24:10,074 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u9f99\u5947\u5174", "phone": "15974615702", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 5000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "530325199509291559", "city_id": 530300, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 4000}}
+2018-08-06 02:24:10,136 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-06 02:24:10,136 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-06 02:24:10,136 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-06 02:24:10,138 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-06 02:24:10,140 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-06 02:24:10,140 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 779, 'nick': '龙奇兴', 'idCard': '530325199509291559', 'mobile': '15974615702', 'isDone': 1, 'amount': 5000, 'estate': 3, 'car': 3, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 1, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533493279228, 'doneAt': 1533493449260, 'updateAt': 1533493449270, 'sex': 1, 'city': 530300, 'salaryPayment': 1, 'overdue': 1}
+2018-08-06 02:24:10,140 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u9f99\u5947\u5174", "phone": "15974615702", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 5000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "530325199509291559", "city_id": 530300, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 4000}}
+2018-08-06 02:24:10,187 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-06 02:24:10,187 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-06 06:33:57,210 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-06 06:33:57,211 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-06 06:33:57,211 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-06 06:33:57,213 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-06 06:33:57,215 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-06 06:33:57,217 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-06 06:33:57,217 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-06 06:33:57,220 [uWSGIWorker1Core1:140685490087680] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-06 06:33:57,220 [uWSGIWorker1Core1:140685490087680] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-06 09:05:47,191 [uWSGIWorker1Core0:140685758363712] [login:70] [login:login] [INFO]- login start
+2018-08-06 09:05:47,192 [uWSGIWorker1Core0:140685758363712] [login:93] [login:login] [INFO]- host is zd.fourco-inc.com ,path is /loan/login ,referer is  
+2018-08-06 09:05:47,192 [uWSGIWorker1Core0:140685758363712] [login:95] [login:login] [INFO]- mobile is 15808819425 ,amount is 10000 ,validCode is 479436 , mediumId is 3, linkId is 11,url is http://zd.fourco-inc.com/login02?source=3&sub=11&template=02
+2018-08-06 09:05:47,200 [uWSGIWorker1Core0:140685758363712] [login:104] [login:login] [INFO]- TEST_MODEL is False
+2018-08-06 09:05:47,200 [uWSGIWorker1Core0:140685758363712] [login:110] [login:login] [INFO]- last sms id is 1011 code is 479436
+2018-08-06 09:05:47,202 [uWSGIWorker1Core0:140685758363712] [login:137] [login:login] [INFO]- mobile is not register
+2018-08-06 09:05:47,209 [uWSGIWorker1Core0:140685758363712] [login:141] [login:login] [INFO]- create mew user success ,id is 783
+2018-08-06 09:05:47,211 [uWSGIWorker1Core0:140685758363712] [login:333] [login:updateMediumStatistics] [INFO]- update today register data
+2018-08-06 09:05:47,211 [uWSGIWorker1Core0:140685758363712] [login:337] [login:updateMediumStatistics] [INFO]- a new user
+2018-08-06 09:42:32,282 [uWSGIWorker1Core1:140685490087680] [login:311] [login:getUserInfo] [INFO]- edit user info start
+2018-08-06 09:42:32,282 [uWSGIWorker1Core1:140685490087680] [login:312] [login:getUserInfo] [INFO]- uid is 785
+2018-08-06 09:42:32,282 [uWSGIWorker1Core1:140685490087680] [django:75] [common:getRequestUid] [INFO]- request uid is 785
+2018-08-06 09:42:32,283 [uWSGIWorker1Core1:140685490087680] [login:314] [login:getUserInfo] [INFO]- get user detail start
+2018-08-06 09:42:32,286 [uWSGIWorker1Core1:140685490087680] [login:317] [login:getUserInfo] [INFO]- get user detail end
+2018-08-06 10:27:41,594 [uWSGIWorker1Core0:140685758363712] [login:311] [login:getUserInfo] [INFO]- edit user info start
+2018-08-06 10:27:41,594 [uWSGIWorker1Core0:140685758363712] [login:312] [login:getUserInfo] [INFO]- uid is 786
+2018-08-06 10:27:41,594 [uWSGIWorker1Core0:140685758363712] [django:75] [common:getRequestUid] [INFO]- request uid is 786
+2018-08-06 10:27:41,594 [uWSGIWorker1Core0:140685758363712] [login:314] [login:getUserInfo] [INFO]- get user detail start
+2018-08-06 10:27:41,597 [uWSGIWorker1Core0:140685758363712] [login:317] [login:getUserInfo] [INFO]- get user detail end
+2018-08-06 10:44:46,432 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 10:44:46,432 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 18
+2018-08-06 10:44:46,433 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 10:44:46,437 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 18, 'name': '人人贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/06/20/20180620111718_45.png', 'status': 1, 'remark': '人人贷借款是人人贷精心打造的一款信用借款产品，无抵押，无担保。专业，不负信赖。', 'amountStart': Decimal('10000.00'), 'amountEnd': Decimal('100000.00'), 'url': 'https://loan.renrendai.com/static/public/lp-mini.html?rrdorigin=09082000400080000&utm_source=JDPTQD&utm_medium=JDPTQD_360DKW&utm_campaign=CPACPS&utm_content=20180507-7&utm_term=090820000', 'rateStart': Decimal('0.78'), 'rateEnd': Decimal('2.50'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1529464700087, 'updateAt': 1531711732172}
+2018-08-06 10:44:46,448 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:31:08,205 [uWSGIWorker1Core0:140685758363712] [login:70] [login:login] [INFO]- login start
+2018-08-06 11:31:08,205 [uWSGIWorker1Core0:140685758363712] [login:93] [login:login] [INFO]- host is zd.fourco-inc.com ,path is /loan/login ,referer is  
+2018-08-06 11:31:08,205 [uWSGIWorker1Core0:140685758363712] [login:95] [login:login] [INFO]- mobile is 15952617254 ,amount is 5000 ,validCode is 326317 , mediumId is 3, linkId is 11,url is http://zd.fourco-inc.com/login02?source=3&sub=11&template=02
+2018-08-06 11:31:08,213 [uWSGIWorker1Core0:140685758363712] [login:104] [login:login] [INFO]- TEST_MODEL is False
+2018-08-06 11:31:08,213 [uWSGIWorker1Core0:140685758363712] [login:110] [login:login] [INFO]- last sms id is 1018 code is 326317
+2018-08-06 11:31:08,215 [uWSGIWorker1Core0:140685758363712] [login:137] [login:login] [INFO]- mobile is not register
+2018-08-06 11:31:08,224 [uWSGIWorker1Core0:140685758363712] [login:141] [login:login] [INFO]- create mew user success ,id is 790
+2018-08-06 11:31:08,226 [uWSGIWorker1Core0:140685758363712] [login:333] [login:updateMediumStatistics] [INFO]- update today register data
+2018-08-06 11:31:08,226 [uWSGIWorker1Core0:140685758363712] [login:337] [login:updateMediumStatistics] [INFO]- a new user
+2018-08-06 11:32:28,281 [uWSGIWorker1Core1:140685490087680] [login:251] [login:editUserInfo] [INFO]- edit user info start
+2018-08-06 11:32:28,282 [uWSGIWorker1Core1:140685490087680] [login:252] [login:editUserInfo] [INFO]- uid is 790
+2018-08-06 11:32:28,282 [uWSGIWorker1Core1:140685490087680] [django:75] [common:getRequestUid] [INFO]- request uid is 790
+2018-08-06 11:32:28,283 [uWSGIWorker1Core1:140685490087680] [login:258] [login:editUserInfo] [INFO]- update user start
+2018-08-06 11:32:28,286 [uWSGIWorker1Core1:140685490087680] [login:266] [login:editUserInfo] [INFO]- flag is 233,
+2018-08-06 11:32:28,286 [uWSGIWorker1Core1:140685490087680] [login:284] [login:editUserInfo] [INFO]- this user is old
+2018-08-06 11:32:28,294 [uWSGIWorker1Core1:140685490087680] [login:289] [login:editUserInfo] [INFO]- update user end
+2018-08-06 11:33:18,430 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:18,431 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:18,431 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:18,435 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:18,459 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:18,575 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:18,575 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:18,575 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:18,579 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:18,588 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:40,039 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:40,039 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:40,039 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:40,044 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:40,052 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:42,714 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:42,714 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:42,715 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:42,719 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:42,727 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:42,866 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:42,866 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:42,866 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:42,870 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:42,878 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:43,009 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:43,009 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:43,009 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:43,013 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:43,021 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:47,890 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:47,891 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:47,891 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:47,895 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:47,904 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:49,376 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:49,377 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:49,377 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:49,381 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:49,390 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:57,175 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:57,176 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:57,176 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:57,180 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:57,190 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 11:33:57,280 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 11:33:57,280 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 11:33:57,280 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 11:33:57,284 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 11:33:57,294 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 12:17:41,708 [uWSGIWorker1Core0:140685758363712] [login:70] [login:login] [INFO]- login start
+2018-08-06 12:17:41,709 [uWSGIWorker1Core0:140685758363712] [login:93] [login:login] [INFO]- host is zd.fourco-inc.com ,path is /loan/login ,referer is  
+2018-08-06 12:17:41,709 [uWSGIWorker1Core0:140685758363712] [login:95] [login:login] [INFO]- mobile is 15015536604 ,amount is 20000 ,validCode is 690567 , mediumId is 3, linkId is 11,url is http://zd.fourco-inc.com/login02?source=3&sub=11&template=02
+2018-08-06 12:17:41,717 [uWSGIWorker1Core0:140685758363712] [login:104] [login:login] [INFO]- TEST_MODEL is False
+2018-08-06 12:17:41,717 [uWSGIWorker1Core0:140685758363712] [login:110] [login:login] [INFO]- last sms id is 1021 code is 690567
+2018-08-06 12:17:41,722 [uWSGIWorker1Core0:140685758363712] [login:127] [login:login] [INFO]- update user productIndex
+2018-08-06 12:17:41,730 [uWSGIWorker1Core0:140685758363712] [login:130] [login:login] [INFO]- this user id is 743,isDone is 1
+2018-08-06 12:20:00,859 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-06 12:20:00,859 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-06 12:20:00,859 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-06 12:20:00,861 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-06 12:20:00,864 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-06 12:20:00,867 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-06 12:20:00,867 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-06 12:20:00,870 [uWSGIWorker1Core1:140685490087680] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 9
+2018-08-06 12:20:00,870 [uWSGIWorker1Core1:140685490087680] [product:125] [product:getProductList] [INFO]- list size is 7
+2018-08-06 12:20:00,872 [uWSGIWorker1Core1:140685490087680] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-06 12:20:00,872 [uWSGIWorker1Core1:140685490087680] [product:135] [product:getProductList] [INFO]- push limit is 1 - 4
+2018-08-06 12:20:00,873 [uWSGIWorker1Core1:140685490087680] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 743,ids is [<Product: Product object (15)>, <Product: Product object (2)>, <Product: Product object (14)>]
+2018-08-06 12:20:00,873 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-06 12:20:00,875 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-06 12:20:00,878 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-06 12:20:00,878 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 743, 'nick': '张学聪', 'idCard': '441882198812106634', 'mobile': '15015536604', 'isDone': 1, 'amount': 20000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 2, 'income': 2, 'provident': 2, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 9, 'createAt': 1533433859274, 'doneAt': 1533434006210, 'updateAt': 1533434006220, 'sex': 1, 'city': 440600, 'salaryPayment': 4, 'overdue': 1}
+2018-08-06 12:20:00,878 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5f20\u5b66\u806a", "phone": "15015536604", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 20000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "441882198812106634", "city_id": 440600, "profession": 2, "gender": 1, "salary_bank_private": 4, "salary": 6000}}
+2018-08-06 12:20:00,925 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-06 12:20:00,925 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-06 12:20:00,925 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-06 12:20:00,927 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-06 12:20:00,929 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-06 12:20:00,929 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 743, 'nick': '张学聪', 'idCard': '441882198812106634', 'mobile': '15015536604', 'isDone': 1, 'amount': 20000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 2, 'income': 2, 'provident': 2, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 9, 'createAt': 1533433859274, 'doneAt': 1533434006210, 'updateAt': 1533434006220, 'sex': 1, 'city': 440600, 'salaryPayment': 4, 'overdue': 1}
+2018-08-06 12:20:00,929 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5f20\u5b66\u806a", "phone": "15015536604", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 20000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "441882198812106634", "city_id": 440600, "profession": 2, "gender": 1, "salary_bank_private": 4, "salary": 6000}}
+2018-08-06 12:20:00,975 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-06 12:20:00,975 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-06 12:20:00,976 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 14
+2018-08-06 12:20:00,977 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-06 12:20:00,980 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-06 12:20:00,980 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 743, 'nick': '张学聪', 'idCard': '441882198812106634', 'mobile': '15015536604', 'isDone': 1, 'amount': 20000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 2, 'income': 2, 'provident': 2, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 9, 'createAt': 1533433859274, 'doneAt': 1533434006210, 'updateAt': 1533434006220, 'sex': 1, 'city': 440600, 'salaryPayment': 4, 'overdue': 1}
+2018-08-06 12:20:00,980 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5f20\u5b66\u806a", "phone": "15015536604", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 20000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "441882198812106634", "city_id": 440600, "profession": 2, "gender": 1, "salary_bank_private": 4, "salary": 6000}}
+2018-08-06 12:20:01,027 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-06 12:20:01,027 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-06 12:27:59,037 [uWSGIWorker1Core1:140685490087680] [medium:18] [medium:getMediumList] [INFO]- API is /admin/u/medium/list ,get mediumList begin :
+2018-08-06 12:27:59,038 [uWSGIWorker1Core1:140685490087680] [medium:31] [medium:getMediumList] [INFO]- kwargs is {} , page is 1 ,size is 1000000
+2018-08-06 12:27:59,040 [uWSGIWorker1Core1:140685490087680] [medium:34] [medium:getMediumList] [INFO]- total is 3
+2018-08-06 15:19:12,482 [uWSGIWorker1Core0:140685758363712] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-06 15:19:12,483 [uWSGIWorker1Core0:140685758363712] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-06 17:43:08,197 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 17:43:08,197 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 27
+2018-08-06 17:43:08,197 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 17:43:08,201 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 27, 'name': '提钱花', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114332_80.png', 'status': 1, 'remark': '纯信用、无抵押、免担保、循环额度、随借随还、按日计息', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('200000.00'), 'url': 'https://api.hnzycfc.com/appServer/preRegist/index.html#/?channel=AOAS&id=1274093663', 'rateStart': Decimal('0.60'), 'rateEnd': Decimal('1.80'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712641607, 'updateAt': 1531729054584}
+2018-08-06 17:43:08,211 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 17:43:20,667 [uWSGIWorker1Core0:140685758363712] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 17:43:20,667 [uWSGIWorker1Core0:140685758363712] [product:195] [product:recommendStatistics] [INFO]- productId is 1
+2018-08-06 17:43:20,667 [uWSGIWorker1Core0:140685758363712] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 17:43:20,672 [uWSGIWorker1Core0:140685758363712] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 1, 'name': '玖富万卡', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/06/04/20180604112736_38.png', 'status': 1, 'remark': '信用额度可循环使用，信用越用越高，利率越用越低。一次开通，终生使用，给您带来一种全新的生活体验。', 'amountStart': Decimal('500.00'), 'amountEnd': Decimal('150000.00'), 'url': 'https://onecard.9fbank.com/wkCubeNew/#/register?proId=360dkwab28996af7feb313f59b1c6acacf41da5ec', 'rateStart': Decimal('0.59'), 'rateEnd': Decimal('1.00'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1528083092231, 'updateAt': 1531711935864}
+2018-08-06 17:43:20,680 [uWSGIWorker1Core0:140685758363712] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 18:29:44,959 [uWSGIWorker1Core1:140685490087680] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-06 18:29:44,959 [uWSGIWorker1Core1:140685490087680] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-06 18:29:44,960 [uWSGIWorker1Core1:140685490087680] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-06 18:29:44,962 [uWSGIWorker1Core1:140685490087680] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-06 18:29:44,964 [uWSGIWorker1Core1:140685490087680] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-06 18:29:44,966 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-06 18:29:44,966 [uWSGIWorker1Core1:140685490087680] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-06 18:29:44,968 [uWSGIWorker1Core1:140685490087680] [product:109] [product:getProductList] [INFO]- user  linkId is 11 productIndex is 0
+2018-08-06 18:29:44,969 [uWSGIWorker1Core1:140685490087680] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-06 18:29:44,971 [uWSGIWorker1Core1:140685490087680] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-06 18:29:44,971 [uWSGIWorker1Core1:140685490087680] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-06 18:29:44,971 [uWSGIWorker1Core1:140685490087680] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 801,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-06 18:29:44,971 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-06 18:29:44,973 [uWSGIWorker1Core1:140685490087680] [product:324] [product:distributionOrder] [INFO]- this relation is exists
+2018-08-06 18:29:44,973 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-06 18:29:44,974 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-06 18:29:44,977 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-06 18:29:44,977 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 801, 'nick': '梁剑平', 'idCard': '450923199307141034', 'mobile': '15876627754', 'isDone': 1, 'amount': 30000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533551318831, 'doneAt': 1533551373108, 'updateAt': 1533551373119, 'sex': 1, 'city': 450900, 'salaryPayment': 1, 'overdue': 1}
+2018-08-06 18:29:44,977 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6881\u5251\u5e73", "phone": "15876627754", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 30000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "450923199307141034", "city_id": 450900, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 6000}}
+2018-08-06 18:29:45,023 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-06 18:29:45,023 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-06 18:29:45,023 [uWSGIWorker1Core1:140685490087680] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-06 18:29:45,025 [uWSGIWorker1Core1:140685490087680] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-06 18:29:45,027 [uWSGIWorker1Core1:140685490087680] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-06 18:29:45,028 [uWSGIWorker1Core1:140685490087680] [product:336] [product:sendUserData] [INFO]- user is {'id': 801, 'nick': '梁剑平', 'idCard': '450923199307141034', 'mobile': '15876627754', 'isDone': 1, 'amount': 30000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 2, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 2, 'provident': 3, 'workExp': 3, 'source': 3, 'sourceLink': 'http://zd.fourco-inc.com/login02?source=3&sub=11&template=02', 'linkId': 11, 'productIndex': 0, 'createAt': 1533551318831, 'doneAt': 1533551373108, 'updateAt': 1533551373119, 'sex': 1, 'city': 450900, 'salaryPayment': 1, 'overdue': 1}
+2018-08-06 18:29:45,028 [uWSGIWorker1Core1:140685490087680] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6881\u5251\u5e73", "phone": "15876627754", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 30000, "repay_term": 12, "credit": 1, "house": 0, "car": 0, "is_work": 1, "is_fund": 0, "is_insurance": 0, "id_card": "450923199307141034", "city_id": 450900, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 6000}}
+2018-08-06 18:29:45,074 [uWSGIWorker1Core1:140685490087680] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-06 18:29:45,074 [uWSGIWorker1Core1:140685490087680] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-06 18:30:08,877 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-06 18:30:08,878 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-06 18:30:08,878 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-06 18:30:08,880 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-06 18:30:08,882 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-06 18:30:08,884 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-06 18:30:08,885 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-06 18:30:08,887 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-06 18:30:08,887 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-06 18:31:41,332 [uWSGIWorker1Core1:140685490087680] [system:142] [system:getModules] [INFO]- ids is ['1', '2', '3', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '4', '8', '9', '10', '11', '12', '13', '14', '17', '21', '22', '23']
+2018-08-06 18:31:41,336 [uWSGIWorker1Core1:140685490087680] [system:152] [system:getModules] [INFO]- modules size is 19
+2018-08-06 20:11:21,736 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-06 20:11:21,736 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-06 20:11:21,736 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-06 20:11:21,738 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-06 20:11:21,741 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-06 20:11:21,743 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-06 20:11:21,743 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-06 20:11:21,746 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-06 20:11:21,747 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-06 20:11:46,695 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 20:11:46,696 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 20
+2018-08-06 20:11:46,696 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 20:11:46,700 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 20, 'name': '龙分期', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716113407_100.png', 'status': 1, 'remark': '21~45岁，有稳定工作，无芝麻，无征信要求', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('4000.00'), 'url': 'https://agent.xiaoshushidai.com/flow-differential_period?from=5Zub5Liq5qSw5a2Q546L', 'rateStart': Decimal('2.90'), 'rateEnd': Decimal('3.00'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712103038, 'updateAt': 1531712118785}
+2018-08-06 20:11:46,709 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 21:33:39,569 [uWSGIWorker1Core0:140685758363712] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-06 21:33:39,569 [uWSGIWorker1Core0:140685758363712] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-06 21:35:38,601 [uWSGIWorker1Core1:140685490087680] [login:311] [login:getUserInfo] [INFO]- edit user info start
+2018-08-06 21:35:38,601 [uWSGIWorker1Core1:140685490087680] [login:312] [login:getUserInfo] [INFO]- uid is 803
+2018-08-06 21:35:38,601 [uWSGIWorker1Core1:140685490087680] [django:75] [common:getRequestUid] [INFO]- request uid is 803
+2018-08-06 21:35:38,601 [uWSGIWorker1Core1:140685490087680] [login:314] [login:getUserInfo] [INFO]- get user detail start
+2018-08-06 21:35:38,604 [uWSGIWorker1Core1:140685490087680] [login:317] [login:getUserInfo] [INFO]- get user detail end
+2018-08-06 21:35:38,658 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-06 21:35:38,659 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-06 21:35:38,659 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-06 21:35:38,661 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-06 21:35:38,663 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-06 21:35:38,665 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- linkId is 11
+2018-08-06 21:35:38,665 [uWSGIWorker1Core0:140685758363712] [product:100] [product:getProductList] [INFO]- this link productSort is null
+2018-08-06 21:35:38,668 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-06 21:35:38,668 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-06 21:36:10,724 [uWSGIWorker1Core1:140685490087680] [product:185] [product:recommendStatistics] [INFO]- recommend product statistics
+2018-08-06 21:36:10,724 [uWSGIWorker1Core1:140685490087680] [product:195] [product:recommendStatistics] [INFO]- productId is 24
+2018-08-06 21:36:10,724 [uWSGIWorker1Core1:140685490087680] [product:204] [product:recommendStatistics] [INFO]- this user's medium is 3, linkId is 11
+2018-08-06 21:36:10,729 [uWSGIWorker1Core1:140685490087680] [product:208] [product:recommendStatistics] [INFO]- product is {'id': 24, 'name': '来秒贷', 'type': 2, 'introduce': '', 'icon': '//admin.fourco-inc.com/img/2018/07/16/20180716114017_19.jpg', 'status': 1, 'remark': '新户秒过5000元，实名秒到，一键借款', 'amountStart': Decimal('1000.00'), 'amountEnd': Decimal('50000.00'), 'url': 'https://laimiaodai.fanzhoutech.com/mobile/phoneverification?par=A84361ADFF0C20CA4E5A2C85605A0DD9', 'rateStart': Decimal('6.00'), 'rateEnd': Decimal('6.01'), 'sort': 1, 'isConfig': 0, 'token': '', 'pushName': '', 'belongName': '', 'createAt': 1531712445369, 'updateAt': 1531712450482}
+2018-08-06 21:36:10,737 [uWSGIWorker1Core1:140685490087680] [product:216] [product:recommendStatistics] [INFO]- add record success
+2018-08-06 23:18:53,295 [uWSGIWorker1Core0:140685758363712] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-06 23:18:53,296 [uWSGIWorker1Core0:140685758363712] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-07 07:55:23,130 [uWSGIWorker1Core1:140685490087680] [system:142] [system:getModules] [INFO]- ids is ['1', '2', '3', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '4', '8', '9', '10', '11', '12', '13', '14', '17', '21', '22', '23']
+2018-08-07 07:55:23,134 [uWSGIWorker1Core1:140685490087680] [system:152] [system:getModules] [INFO]- modules size is 19
+2018-08-07 07:56:44,176 [uWSGIWorker1Core0:140685758363712] [product:19] [product:getProductList] [INFO]- get product list start
+2018-08-07 07:56:44,176 [uWSGIWorker1Core0:140685758363712] [product:47] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-07 07:56:44,179 [uWSGIWorker1Core0:140685758363712] [product:51] [product:getProductList] [INFO]- product ids size is 5
+2018-08-07 07:56:44,179 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- targetId is None 
+2018-08-07 07:56:44,181 [uWSGIWorker1Core0:140685758363712] [product:97] [product:getProductList] [INFO]- list size is 5
+2018-08-07 07:58:16,841 [uWSGIWorker1Core1:140685490087680] [user:20] [user:getUserList] [INFO]- get user list start
+2018-08-07 07:58:16,842 [uWSGIWorker1Core1:140685490087680] [user:21] [user:getUserList] [INFO]- method -GET
+2018-08-07 07:58:16,842 [uWSGIWorker1Core1:140685490087680] [user:37] [user:getUserList] [INFO]- userType is 4
+2018-08-07 07:58:16,842 [uWSGIWorker1Core1:140685490087680] [user:41] [user:getUserList] [INFO]- productId is None
+2018-08-07 07:58:16,843 [uWSGIWorker1Core1:140685490087680] [user:94] [user:getUserList] [INFO]- recommendParams is {'createAt__gte': '1533571200000', 'createAt__lte': '1533599891340', 'productId': '18', 'linkId': '11'}
+2018-08-07 07:58:16,845 [uWSGIWorker1Core1:140685490087680] [user:96] [user:getUserList] [INFO]- record is [804, 804, 804, 804, 804, 804]
+2018-08-07 07:58:16,845 [uWSGIWorker1Core1:140685490087680] [user:126] [user:getUserList] [INFO]- ids is []
+2018-08-07 07:58:16,846 [uWSGIWorker1Core1:140685490087680] [user:130] [user:getUserList] [INFO]- kwargs is {'id__in': [804, 804, 804, 804, 804, 804]}
+2018-08-07 07:58:16,848 [uWSGIWorker1Core1:140685490087680] [user:137] [user:getUserList] [INFO]- user ids is [804]
+2018-08-07 07:58:16,851 [uWSGIWorker1Core1:140685490087680] [user:142] [user:getUserList] [INFO]- return ids is [3]
+2018-08-07 07:58:16,852 [uWSGIWorker1Core1:140685490087680] [user:145] [user:getUserList] [INFO]- return medium list size is 1
+2018-08-07 07:58:16,857 [uWSGIWorker1Core1:140685490087680] [user:152] [user:getUserList] [INFO]- user list size is 1
+2018-08-07 07:58:16,859 [uWSGIWorker1Core1:140685490087680] [user:156] [user:getUserList] [INFO]- relations size is 0
+2018-08-07 08:49:55,096 [uWSGIWorker1Core0:140685758363712] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-07 08:49:55,096 [uWSGIWorker1Core0:140685758363712] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-07 10:33:25,036 [uWSGIWorker1Core1:140685490087680] [product:19] [product:getProductList] [INFO]- get product list start
+2018-08-07 10:33:25,036 [uWSGIWorker1Core1:140685490087680] [product:47] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-07 10:33:25,038 [uWSGIWorker1Core1:140685490087680] [product:51] [product:getProductList] [INFO]- product ids size is 5
+2018-08-07 10:33:25,038 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- targetId is None 
+2018-08-07 10:33:25,040 [uWSGIWorker1Core1:140685490087680] [product:97] [product:getProductList] [INFO]- list size is 5
+2018-08-07 10:34:54,976 [uWSGIWorker1Core0:140685758363712] [product:19] [product:getProductList] [INFO]- get product list start
+2018-08-07 10:34:54,976 [uWSGIWorker1Core0:140685758363712] [product:47] [product:getProductList] [INFO]- query params is {'status': '1', 'type': '1'}
+2018-08-07 10:34:54,979 [uWSGIWorker1Core0:140685758363712] [product:51] [product:getProductList] [INFO]- product ids size is 4
+2018-08-07 10:34:54,979 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- targetId is None 
+2018-08-07 10:34:54,981 [uWSGIWorker1Core0:140685758363712] [product:97] [product:getProductList] [INFO]- list size is 4
+2018-08-07 10:57:37,489 [uWSGIWorker1Core1:140685490087680] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-07 10:57:37,489 [uWSGIWorker1Core1:140685490087680] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-07 18:58:34,185 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-07 18:58:34,186 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-07 18:58:34,186 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-07 18:58:34,189 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-07 18:58:34,191 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-07 18:58:34,197 [uWSGIWorker1Core0:140685758363712] [product:109] [product:getProductList] [INFO]- user  linkId is None productIndex is 66
+2018-08-07 18:58:34,197 [uWSGIWorker1Core0:140685758363712] [product:125] [product:getProductList] [INFO]- list size is 6
+2018-08-07 18:58:34,200 [uWSGIWorker1Core0:140685758363712] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-07 18:58:34,200 [uWSGIWorker1Core0:140685758363712] [product:135] [product:getProductList] [INFO]- push limit is 2 - 5
+2018-08-07 18:58:34,200 [uWSGIWorker1Core0:140685758363712] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 158,ids is [<Product: Product object (2)>, <Product: Product object (14)>, <Product: Product object (16)>]
+2018-08-07 18:58:34,200 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-07 18:58:34,202 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-07 18:58:34,204 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-07 18:58:34,205 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 158, 'nick': '风风光', 'idCard': '156545455555555555', 'mobile': '18015489163', 'isDone': 1, 'amount': 10000, 'estate': 2, 'car': 2, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 2, 'livingTime': 2, 'profession': 3, 'income': 0, 'provident': 0, 'workExp': 0, 'source': 0, 'sourceLink': 'http://zd.fourco-inc.com/login', 'linkId': None, 'productIndex': 66, 'createAt': 1531126132745, 'doneAt': 1531126180434, 'updateAt': 1531126180434, 'sex': 1, 'city': 120100, 'salaryPayment': 0, 'overdue': 2}
+2018-08-07 18:58:34,205 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u98ce\u98ce\u5149", "phone": "18015489163", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 2, "house": 1, "car": 1, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "156545455555555555", "city_id": 120100, "profession": 3, "gender": 1, "salary_bank_private": 0, "salary": 0}}
+2018-08-07 18:58:34,302 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":10,"errMsg":"身份证号码验证失败！(值：156545455555555555)","data":[]}
+2018-08-07 18:58:34,303 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 身份证号码验证失败！(值：156545455555555555)
+2018-08-07 18:58:34,303 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 14
+2018-08-07 18:58:34,305 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-07 18:58:34,307 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-07 18:58:34,307 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 158, 'nick': '风风光', 'idCard': '156545455555555555', 'mobile': '18015489163', 'isDone': 1, 'amount': 10000, 'estate': 2, 'car': 2, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 2, 'livingTime': 2, 'profession': 3, 'income': 0, 'provident': 0, 'workExp': 0, 'source': 0, 'sourceLink': 'http://zd.fourco-inc.com/login', 'linkId': None, 'productIndex': 66, 'createAt': 1531126132745, 'doneAt': 1531126180434, 'updateAt': 1531126180434, 'sex': 1, 'city': 120100, 'salaryPayment': 0, 'overdue': 2}
+2018-08-07 18:58:34,307 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u98ce\u98ce\u5149", "phone": "18015489163", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 2, "house": 1, "car": 1, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "156545455555555555", "city_id": 120100, "profession": 3, "gender": 1, "salary_bank_private": 0, "salary": 0}}
+2018-08-07 18:58:34,364 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":10,"errMsg":"身份证号码验证失败！(值：156545455555555555)","data":[]}
+2018-08-07 18:58:34,365 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 身份证号码验证失败！(值：156545455555555555)
+2018-08-07 18:58:34,365 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-07 18:58:34,366 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-07 18:58:34,369 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-07 18:58:34,369 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 158, 'nick': '风风光', 'idCard': '156545455555555555', 'mobile': '18015489163', 'isDone': 1, 'amount': 10000, 'estate': 2, 'car': 2, 'card': 2, 'lifeInsurance': 2, 'feeInsurance': 2, 'livingTime': 2, 'profession': 3, 'income': 0, 'provident': 0, 'workExp': 0, 'source': 0, 'sourceLink': 'http://zd.fourco-inc.com/login', 'linkId': None, 'productIndex': 66, 'createAt': 1531126132745, 'doneAt': 1531126180434, 'updateAt': 1531126180434, 'sex': 1, 'city': 120100, 'salaryPayment': 0, 'overdue': 2}
+2018-08-07 18:58:34,369 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u98ce\u98ce\u5149", "phone": "18015489163", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 10000, "repay_term": 12, "credit": 2, "house": 1, "car": 1, "is_work": 1, "is_fund": 1, "is_insurance": 0, "id_card": "156545455555555555", "city_id": 120100, "profession": 3, "gender": 1, "salary_bank_private": 0, "salary": 0}}
+2018-08-07 18:58:34,457 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":10,"errMsg":"身份证号码验证失败！(值：156545455555555555)","data":[]}
+2018-08-07 18:58:34,458 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 身份证号码验证失败！(值：156545455555555555)
+2018-08-07 18:59:45,076 [uWSGIWorker1Core1:140685490087680] [login:311] [login:getUserInfo] [INFO]- edit user info start
+2018-08-07 18:59:45,076 [uWSGIWorker1Core1:140685490087680] [login:312] [login:getUserInfo] [INFO]- uid is 158
+2018-08-07 18:59:45,076 [uWSGIWorker1Core1:140685490087680] [django:75] [common:getRequestUid] [INFO]- request uid is 158
+2018-08-07 18:59:45,077 [uWSGIWorker1Core1:140685490087680] [login:314] [login:getUserInfo] [INFO]- get user detail start
+2018-08-07 18:59:45,079 [uWSGIWorker1Core1:140685490087680] [login:317] [login:getUserInfo] [INFO]- get user detail end
+2018-08-08 09:02:33,183 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-08 09:02:33,183 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-08 09:02:33,183 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-08 09:02:33,185 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 26, 25, 24, 23, 22, 21, 20, 18, 1]
+2018-08-08 09:02:33,188 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 10
+2018-08-08 09:02:33,192 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 10
+2018-08-08 09:02:33,192 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (26)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (18)>, <Product: Product object (1)>]
+2018-08-08 11:24:51,375 [uWSGIWorker1Core1:140685490087680] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-08 11:24:51,376 [uWSGIWorker1Core1:140685490087680] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-08 12:05:05,596 [uWSGIWorker1Core1:140685490087680] [login:70] [login:login] [INFO]- login start
+2018-08-08 12:05:05,597 [uWSGIWorker1Core1:140685490087680] [login:93] [login:login] [INFO]- host is zd.fourco-inc.com ,path is /loan/login ,referer is  
+2018-08-08 12:05:05,597 [uWSGIWorker1Core1:140685490087680] [login:95] [login:login] [INFO]- mobile is 17343037825 ,amount is 1111 ,validCode is 465871 , mediumId is 0, linkId is None,url is http://zd.fourco-inc.com/login
+2018-08-08 12:05:05,606 [uWSGIWorker1Core1:140685490087680] [login:104] [login:login] [INFO]- TEST_MODEL is False
+2018-08-08 12:05:05,606 [uWSGIWorker1Core1:140685490087680] [login:110] [login:login] [INFO]- last sms id is 1044 code is 465871
+2018-08-08 12:05:05,609 [uWSGIWorker1Core1:140685490087680] [login:127] [login:login] [INFO]- update user productIndex
+2018-08-08 12:05:05,617 [uWSGIWorker1Core1:140685490087680] [login:130] [login:login] [INFO]- this user id is 2,isDone is 1
+2018-08-08 16:13:20,632 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-08 16:13:20,633 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-08 16:13:20,633 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '2'}
+2018-08-08 16:13:20,635 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [27, 25, 24, 23, 22, 21, 20, 1]
+2018-08-08 16:13:20,638 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 8
+2018-08-08 16:13:20,643 [uWSGIWorker1Core0:140685758363712] [product:142] [product:getProductList] [INFO]- list size is 8
+2018-08-08 16:13:20,643 [uWSGIWorker1Core0:140685758363712] [product:143] [product:getProductList] [INFO]- list  is [<Product: Product object (27)>, <Product: Product object (25)>, <Product: Product object (24)>, <Product: Product object (23)>, <Product: Product object (22)>, <Product: Product object (21)>, <Product: Product object (20)>, <Product: Product object (1)>]
+2018-08-09 09:13:52,971 [uWSGIWorker1Core1:140685490087680] [user:20] [user:getUserList] [INFO]- get user list start
+2018-08-09 09:13:52,971 [uWSGIWorker1Core1:140685490087680] [user:21] [user:getUserList] [INFO]- method -GET
+2018-08-09 09:13:52,972 [uWSGIWorker1Core1:140685490087680] [user:37] [user:getUserList] [INFO]- userType is None
+2018-08-09 09:13:52,972 [uWSGIWorker1Core1:140685490087680] [user:41] [user:getUserList] [INFO]- productId is None
+2018-08-09 09:13:52,972 [uWSGIWorker1Core1:140685490087680] [user:126] [user:getUserList] [INFO]- ids is []
+2018-08-09 09:13:52,972 [uWSGIWorker1Core1:140685490087680] [user:130] [user:getUserList] [INFO]- kwargs is {}
+2018-08-09 09:13:52,980 [uWSGIWorker1Core0:140685758363712] [medium:18] [medium:getMediumList] [INFO]- API is /admin/u/medium/list ,get mediumList begin :
+2018-08-09 09:13:52,981 [uWSGIWorker1Core0:140685758363712] [medium:31] [medium:getMediumList] [INFO]- kwargs is {} , page is 1 ,size is 1000000
+2018-08-09 09:13:52,982 [uWSGIWorker1Core1:140685490087680] [user:137] [user:getUserList] [INFO]- user ids is [811, 810, 809, 808, 807, 806, 805, 804, 803, 802]
+2018-08-09 09:13:52,983 [uWSGIWorker1Core0:140685758363712] [medium:34] [medium:getMediumList] [INFO]- total is 3
+2018-08-09 09:13:52,986 [uWSGIWorker1Core1:140685490087680] [user:142] [user:getUserList] [INFO]- return ids is [0, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+2018-08-09 09:13:52,987 [uWSGIWorker1Core1:140685490087680] [user:145] [user:getUserList] [INFO]- return medium list size is 1
+2018-08-09 09:13:52,992 [uWSGIWorker1Core1:140685490087680] [user:152] [user:getUserList] [INFO]- user list size is 10
+2018-08-09 09:13:52,994 [uWSGIWorker1Core1:140685490087680] [user:156] [user:getUserList] [INFO]- relations size is 3
+2018-08-09 09:14:04,983 [uWSGIWorker1Core0:140685758363712] [product:19] [product:getProductList] [INFO]- get product list start
+2018-08-09 09:14:04,984 [uWSGIWorker1Core0:140685758363712] [product:47] [product:getProductList] [INFO]- query params is {}
+2018-08-09 09:14:04,986 [uWSGIWorker1Core0:140685758363712] [product:51] [product:getProductList] [INFO]- product ids size is 27
+2018-08-09 09:14:04,986 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- targetId is None 
+2018-08-09 09:14:04,988 [uWSGIWorker1Core0:140685758363712] [product:97] [product:getProductList] [INFO]- list size is 27
+2018-08-09 09:14:18,453 [uWSGIWorker1Core1:140685490087680] [medium:18] [medium:getMediumList] [INFO]- API is /admin/u/medium/list ,get mediumList begin :
+2018-08-09 09:14:18,453 [uWSGIWorker1Core1:140685490087680] [medium:31] [medium:getMediumList] [INFO]- kwargs is {} , page is 1 ,size is 1000000
+2018-08-09 09:14:18,455 [uWSGIWorker1Core1:140685490087680] [medium:34] [medium:getMediumList] [INFO]- total is 3
+2018-08-09 15:14:14,526 [uWSGIWorker1Core0:140685758363712] [banner:12] [banner:getBannerList] [INFO]- get banner list start
+2018-08-09 15:14:14,526 [uWSGIWorker1Core0:140685758363712] [banner:24] [banner:getBannerList] [INFO]- kwargs is {} , page is 1 ,size is 3
+2018-08-10 11:57:34,110 [uWSGIWorker1Core1:140685490087680] [product:19] [product:getProductList] [INFO]- get product list start
+2018-08-10 11:57:34,110 [uWSGIWorker1Core1:140685490087680] [product:47] [product:getProductList] [INFO]- query params is {'status': '1', 'type': '1'}
+2018-08-10 11:57:34,114 [uWSGIWorker1Core1:140685490087680] [product:51] [product:getProductList] [INFO]- product ids size is 4
+2018-08-10 11:57:34,114 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- targetId is None 
+2018-08-10 11:57:34,116 [uWSGIWorker1Core1:140685490087680] [product:97] [product:getProductList] [INFO]- list size is 4
+2018-08-10 14:16:35,884 [uWSGIWorker1Core0:140685758363712] [system:142] [system:getModules] [INFO]- ids is ['1', '2', '3', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '4', '8', '9', '10', '11', '12', '13', '14', '17', '21', '22', '23']
+2018-08-10 14:16:35,888 [uWSGIWorker1Core0:140685758363712] [system:152] [system:getModules] [INFO]- modules size is 19
+2018-08-11 17:12:03,159 [uWSGIWorker1Core0:140685758363712] [system:142] [system:getModules] [INFO]- ids is ['1', '2', '3', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '4', '8', '9', '10', '11', '12', '13', '14', '17', '21', '22', '23']
+2018-08-11 17:12:03,163 [uWSGIWorker1Core0:140685758363712] [system:152] [system:getModules] [INFO]- modules size is 19
+2018-08-13 09:15:51,196 [uWSGIWorker1Core1:140685490087680] [product:19] [product:getProductList] [INFO]- get product list start
+2018-08-13 09:15:51,196 [uWSGIWorker1Core1:140685490087680] [product:47] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-13 09:15:51,199 [uWSGIWorker1Core1:140685490087680] [product:51] [product:getProductList] [INFO]- product ids size is 5
+2018-08-13 09:15:51,200 [uWSGIWorker1Core1:140685490087680] [product:52] [product:getProductList] [INFO]- targetId is None 
+2018-08-13 09:15:51,203 [uWSGIWorker1Core1:140685490087680] [product:97] [product:getProductList] [INFO]- list size is 5
+2018-08-14 11:10:29,593 [uWSGIWorker1Core0:140685758363712] [product:19] [product:getProductList] [INFO]- get product list start
+2018-08-14 11:10:29,593 [uWSGIWorker1Core0:140685758363712] [product:47] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-14 11:10:29,595 [uWSGIWorker1Core0:140685758363712] [product:51] [product:getProductList] [INFO]- product ids size is 5
+2018-08-14 11:10:29,596 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- targetId is None 
+2018-08-14 11:10:29,598 [uWSGIWorker1Core0:140685758363712] [product:97] [product:getProductList] [INFO]- list size is 5
+2018-08-22 00:23:23,300 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-22 00:23:23,300 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-22 00:23:23,301 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-22 00:23:23,303 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-22 00:23:23,306 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-22 00:23:23,311 [uWSGIWorker1Core0:140685758363712] [product:109] [product:getProductList] [INFO]- user  linkId is None productIndex is 0
+2018-08-22 00:23:23,311 [uWSGIWorker1Core0:140685758363712] [product:125] [product:getProductList] [INFO]- list size is 8
+2018-08-22 00:23:23,314 [uWSGIWorker1Core0:140685758363712] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-22 00:23:23,314 [uWSGIWorker1Core0:140685758363712] [product:135] [product:getProductList] [INFO]- push limit is 0 - 3
+2018-08-22 00:23:23,314 [uWSGIWorker1Core0:140685758363712] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 812,ids is [<Product: Product object (16)>, <Product: Product object (15)>, <Product: Product object (2)>]
+2018-08-22 00:23:23,314 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-22 00:23:23,316 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-22 00:23:23,319 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-22 00:23:23,319 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 812, 'nick': '宜康康', 'idCard': '610623199808121212', 'mobile': '15771817096', 'isDone': 1, 'amount': 1000000, 'estate': 1, 'car': 1, 'card': 1, 'lifeInsurance': 1, 'feeInsurance': 1, 'livingTime': 2, 'profession': 4, 'income': 3, 'provident': 2, 'workExp': 3, 'source': 0, 'sourceLink': 'http://zd.fourco-inc.com/login', 'linkId': None, 'productIndex': 0, 'createAt': 1534868533217, 'doneAt': 1534868602877, 'updateAt': 1534868602877, 'sex': 1, 'city': 110100, 'salaryPayment': 2, 'overdue': 1}
+2018-08-22 00:23:23,319 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5b9c\u5eb7\u5eb7", "phone": "15771817096", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 1000000, "repay_term": 12, "credit": 1, "house": 1, "car": 1, "is_work": 1, "is_fund": 1, "is_insurance": 1, "id_card": "610623199808121212", "city_id": 110100, "profession": 4, "gender": 1, "salary_bank_private": 2, "salary": 10000}}
+2018-08-22 00:23:23,399 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":10,"errMsg":"身份证号码验证失败！(值：610623199808121212)","data":[]}
+2018-08-22 00:23:23,399 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 身份证号码验证失败！(值：610623199808121212)
+2018-08-22 00:23:23,399 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-22 00:23:23,401 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-22 00:23:23,403 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-22 00:23:23,403 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 812, 'nick': '宜康康', 'idCard': '610623199808121212', 'mobile': '15771817096', 'isDone': 1, 'amount': 1000000, 'estate': 1, 'car': 1, 'card': 1, 'lifeInsurance': 1, 'feeInsurance': 1, 'livingTime': 2, 'profession': 4, 'income': 3, 'provident': 2, 'workExp': 3, 'source': 0, 'sourceLink': 'http://zd.fourco-inc.com/login', 'linkId': None, 'productIndex': 0, 'createAt': 1534868533217, 'doneAt': 1534868602877, 'updateAt': 1534868602877, 'sex': 1, 'city': 110100, 'salaryPayment': 2, 'overdue': 1}
+2018-08-22 00:23:23,404 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5b9c\u5eb7\u5eb7", "phone": "15771817096", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 1000000, "repay_term": 12, "credit": 1, "house": 1, "car": 1, "is_work": 1, "is_fund": 1, "is_insurance": 1, "id_card": "610623199808121212", "city_id": 110100, "profession": 4, "gender": 1, "salary_bank_private": 2, "salary": 10000}}
+2018-08-22 00:23:23,447 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":10,"errMsg":"身份证号码验证失败！(值：610623199808121212)","data":[]}
+2018-08-22 00:23:23,448 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 身份证号码验证失败！(值：610623199808121212)
+2018-08-22 00:23:23,448 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 2
+2018-08-22 00:23:23,450 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-22 00:23:23,452 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-22 00:23:23,452 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 812, 'nick': '宜康康', 'idCard': '610623199808121212', 'mobile': '15771817096', 'isDone': 1, 'amount': 1000000, 'estate': 1, 'car': 1, 'card': 1, 'lifeInsurance': 1, 'feeInsurance': 1, 'livingTime': 2, 'profession': 4, 'income': 3, 'provident': 2, 'workExp': 3, 'source': 0, 'sourceLink': 'http://zd.fourco-inc.com/login', 'linkId': None, 'productIndex': 0, 'createAt': 1534868533217, 'doneAt': 1534868602877, 'updateAt': 1534868602877, 'sex': 1, 'city': 110100, 'salaryPayment': 2, 'overdue': 1}
+2018-08-22 00:23:23,452 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u5b9c\u5eb7\u5eb7", "phone": "15771817096", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 1000000, "repay_term": 12, "credit": 1, "house": 1, "car": 1, "is_work": 1, "is_fund": 1, "is_insurance": 1, "id_card": "610623199808121212", "city_id": 110100, "profession": 4, "gender": 1, "salary_bank_private": 2, "salary": 10000}}
+2018-08-22 00:23:23,498 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":10,"errMsg":"身份证号码验证失败！(值：610623199808121212)","data":[]}
+2018-08-22 00:23:23,499 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 身份证号码验证失败！(值：610623199808121212)
+2018-08-22 18:04:21,694 [uWSGIWorker1Core0:140685758363712] [product:21] [product:getProductList] [INFO]- get product list start
+2018-08-22 18:04:21,694 [uWSGIWorker1Core0:140685758363712] [product:30] [product:getProductList] [INFO]- page is 1 size is 10
+2018-08-22 18:04:21,695 [uWSGIWorker1Core0:140685758363712] [product:39] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-22 18:04:21,697 [uWSGIWorker1Core0:140685758363712] [product:43] [product:getProductList] [INFO]- product ids is [16, 15, 2, 14]
+2018-08-22 18:04:21,700 [uWSGIWorker1Core0:140685758363712] [product:45] [product:getProductList] [INFO]- list size is 4
+2018-08-22 18:04:21,704 [uWSGIWorker1Core0:140685758363712] [product:109] [product:getProductList] [INFO]- user  linkId is None productIndex is 3
+2018-08-22 18:04:21,704 [uWSGIWorker1Core0:140685758363712] [product:125] [product:getProductList] [INFO]- list size is 5
+2018-08-22 18:04:21,706 [uWSGIWorker1Core0:140685758363712] [product:130] [product:getProductList] [INFO]- content N is 3
+2018-08-22 18:04:21,706 [uWSGIWorker1Core0:140685758363712] [product:135] [product:getProductList] [INFO]- push limit is 3 - 6
+2018-08-22 18:04:21,706 [uWSGIWorker1Core0:140685758363712] [product:250] [product:distributionOrder] [INFO]- distributionOrder start:uid is 813,ids is [<Product: Product object (14)>, <Product: Product object (16)>, <Product: Product object (15)>]
+2018-08-22 18:04:21,706 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 14
+2018-08-22 18:04:21,708 [uWSGIWorker1Core0:140685758363712] [product:324] [product:distributionOrder] [INFO]- this relation is exists
+2018-08-22 18:04:21,708 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 16
+2018-08-22 18:04:21,709 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-22 18:04:21,712 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-22 18:04:21,712 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 813, 'nick': '杨问宇', 'idCard': '420581199310310034', 'mobile': '18601305078', 'isDone': 1, 'amount': 1000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 1, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 3, 'provident': 1, 'workExp': 3, 'source': 0, 'sourceLink': 'http://zd.fourco-inc.com/login', 'linkId': None, 'productIndex': 3, 'createAt': 1534932015113, 'doneAt': 1534932178979, 'updateAt': 1534932178979, 'sex': 1, 'city': 110100, 'salaryPayment': 1, 'overdue': 2}
+2018-08-22 18:04:21,712 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6768\u95ee\u5b87", "phone": "18601305078", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 1000, "repay_term": 12, "credit": 2, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 1, "id_card": "420581199310310034", "city_id": 110100, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 10000}}
+2018-08-22 18:04:21,760 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-22 18:04:21,760 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-22 18:04:21,761 [uWSGIWorker1Core0:140685758363712] [product:253] [product:distributionOrder] [INFO]- product id is 15
+2018-08-22 18:04:21,762 [uWSGIWorker1Core0:140685758363712] [product:261] [product:distributionOrder] [INFO]- this product token is 56f4c0ce16617624e828148d357656fb
+2018-08-22 18:04:21,765 [uWSGIWorker1Core0:140685758363712] [product:269] [product:distributionOrder] [INFO]- sendUserData start
+2018-08-22 18:04:21,766 [uWSGIWorker1Core0:140685758363712] [product:336] [product:sendUserData] [INFO]- user is {'id': 813, 'nick': '杨问宇', 'idCard': '420581199310310034', 'mobile': '18601305078', 'isDone': 1, 'amount': 1000, 'estate': 3, 'car': 3, 'card': 1, 'lifeInsurance': 1, 'feeInsurance': 1, 'livingTime': 2, 'profession': 1, 'income': 3, 'provident': 1, 'workExp': 3, 'source': 0, 'sourceLink': 'http://zd.fourco-inc.com/login', 'linkId': None, 'productIndex': 3, 'createAt': 1534932015113, 'doneAt': 1534932178979, 'updateAt': 1534932178979, 'sex': 1, 'city': 110100, 'salaryPayment': 1, 'overdue': 2}
+2018-08-22 18:04:21,766 [uWSGIWorker1Core0:140685758363712] [product:412] [product:sendUserData] [INFO]- params is {"token": "56f4c0ce16617624e828148d357656fb", "data": {"name": "\u6768\u95ee\u5b87", "phone": "18601305078", "media": "\u56db\u4e2a\u6930\u5b50API", "loan_limit": 1000, "repay_term": 12, "credit": 2, "house": 0, "car": 0, "is_work": 1, "is_fund": 1, "is_insurance": 1, "id_card": "420581199310310034", "city_id": 110100, "profession": 1, "gender": 1, "salary_bank_private": 1, "salary": 10000}}
+2018-08-22 18:04:21,811 [uWSGIWorker1Core0:140685758363712] [product:271] [product:distributionOrder] [INFO]- sendUserData response is  {"errorCode":12,"errMsg":"用户已注册！","data":[]}
+2018-08-22 18:04:21,811 [uWSGIWorker1Core0:140685758363712] [product:276] [product:distributionOrder] [ERROR]- sendUserData error ,message is 用户已注册！
+2018-08-23 11:53:54,991 [uWSGIWorker1Core0:140685758363712] [product:486] [product:getProductStatistics] [INFO]- kwargs is {}
+2018-08-23 11:53:54,995 [uWSGIWorker1Core0:140685758363712] [product:494] [product:getProductStatistics] [INFO]- result size is 35 ,orderTotal is 457
+2018-08-23 11:54:00,197 [uWSGIWorker1Core1:140685490087680] [medium:18] [medium:getMediumList] [INFO]- API is /admin/u/medium/list ,get mediumList begin :
+2018-08-23 11:54:00,197 [uWSGIWorker1Core1:140685490087680] [medium:31] [medium:getMediumList] [INFO]- kwargs is {} , page is 1 ,size is 1000000
+2018-08-23 11:54:00,200 [uWSGIWorker1Core1:140685490087680] [medium:34] [medium:getMediumList] [INFO]- total is 3
+2018-08-23 11:54:22,274 [uWSGIWorker1Core0:140685758363712] [product:19] [product:getProductList] [INFO]- get product list start
+2018-08-23 11:54:22,274 [uWSGIWorker1Core0:140685758363712] [product:47] [product:getProductList] [INFO]- query params is {'type': '1'}
+2018-08-23 11:54:22,276 [uWSGIWorker1Core0:140685758363712] [product:51] [product:getProductList] [INFO]- product ids size is 5
+2018-08-23 11:54:22,277 [uWSGIWorker1Core0:140685758363712] [product:52] [product:getProductList] [INFO]- targetId is None 
+2018-08-23 11:54:22,280 [uWSGIWorker1Core0:140685758363712] [product:97] [product:getProductList] [INFO]- list size is 5
