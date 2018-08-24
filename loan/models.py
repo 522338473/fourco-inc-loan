@@ -33,6 +33,7 @@ class User(models.Model):
     city = models.IntegerField(default=0)
     salaryPayment = models.IntegerField(default=0, db_column='salary_payment')
     overdue = models.IntegerField(default=0)
+    secure = models.CharField(db_column='secure', max_length=256, default='')
 
     # 用于之后预处理为json
     def to_dire(self):
