@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0507579-8f8c-4ef4-a888-28f35c4a6652" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loan/views/login.py" afterPath="$PROJECT_DIR$/loan/views/login.py" />
-    </list>
+    <list default="true" id="b0507579-8f8c-4ef4-a888-28f35c4a6652" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/loan/views/product.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1353">
-              <caret line="275" column="43" lean-forward="true" selection-start-line="275" selection-start-column="43" selection-end-line="275" selection-end-column="43" />
+              <caret line="275" column="43" lean-forward="false" selection-start-line="275" selection-start-column="43" selection-end-line="275" selection-end-column="43" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <element signature="e#576#6294#0" expanded="false" />
@@ -269,7 +267,7 @@
     <entry file="file://$PROJECT_DIR$/loan/views/product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1353">
-          <caret line="275" column="43" lean-forward="true" selection-start-line="275" selection-start-column="43" selection-end-line="275" selection-end-column="43" />
+          <caret line="275" column="43" lean-forward="false" selection-start-line="275" selection-start-column="43" selection-end-line="275" selection-end-column="43" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#576#6294#0" expanded="false" />
