@@ -49,8 +49,8 @@
       <file leaf-file-name="product.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loan/views/product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="439" column="52" lean-forward="true" selection-start-line="439" selection-start-column="52" selection-end-line="439" selection-end-column="52" />
+            <state relative-caret-position="154">
+              <caret line="429" column="42" lean-forward="false" selection-start-line="429" selection-start-column="42" selection-end-line="429" selection-end-column="42" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <element signature="e#576#6294#0" expanded="false" />
@@ -102,10 +102,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="487" />
-    <option name="y" value="25" />
-    <option name="width" value="887" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="308" />
+    <option name="y" value="104" />
+    <option name="width" value="765" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -130,17 +130,6 @@
             <path>
               <item name="fourco-inc-loan" type="b2602c69:ProjectViewProjectNode" />
               <item name="fourco-inc-loan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fourco-inc-loan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fourco-inc-loan" type="462c0819:PsiDirectoryNode" />
-              <item name="loan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fourco-inc-loan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fourco-inc-loan" type="462c0819:PsiDirectoryNode" />
-              <item name="loan" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,7 +194,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="487" y="25" width="887" height="728" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -284,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loan/views/product.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="439" column="52" lean-forward="true" selection-start-line="439" selection-start-column="52" selection-end-line="439" selection-end-column="52" />
+        <state relative-caret-position="154">
+          <caret line="429" column="42" lean-forward="false" selection-start-line="429" selection-start-column="42" selection-end-line="429" selection-end-column="42" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#576#6294#0" expanded="false" />
