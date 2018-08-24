@@ -53,6 +53,7 @@ class RegisterForm(forms.ModelForm):
     productIndex = forms.IntegerField(required=False)
     salaryPayment = forms.IntegerField(required=False)
     overdue = forms.IntegerField(required=False)
+    secure = forms.CharField(required=False)
 
     class Meta:
         model = User
