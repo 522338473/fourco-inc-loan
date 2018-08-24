@@ -433,7 +433,7 @@ def desencrypt(s):
 
 
 def secure(request, user: User):
-    base_url = 'http://47.92.104.74:9099/insurance/enhanced'
+    base_url = 'https://www.heiniubao.com/insurance/enhanced'
     key = 'baoxian-$@'
     channel = 'jmposji'                                  # 一级渠道名
     subchannel = 'posjiapi1'                             # 二级渠道名
