@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0507579-8f8c-4ef4-a888-28f35c4a6652" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loan/models.py" afterPath="$PROJECT_DIR$/loan/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loan/views/product.py" afterPath="$PROJECT_DIR$/loan/views/product.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,17 +13,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="adminUrls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loan/adminUrls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loan/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            <state relative-caret-position="476">
+              <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="product.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/loan/views/product.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="278" column="41" lean-forward="true" selection-start-line="278" selection-start-column="41" selection-end-line="278" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#6362#7001#0" expanded="false" />
+                <element signature="e#7068#9955#0" expanded="false" />
+                <element signature="e#14858#14903#0" expanded="false" />
+                <element signature="e#14938#14972#0" expanded="false" />
+                <element signature="e#14991#15025#0" expanded="false" />
+                <element signature="e#15056#15088#0" expanded="false" />
+                <element signature="e#15107#15139#0" expanded="false" />
+                <element signature="e#15177#15213#0" expanded="false" />
+                <element signature="e#15232#15268#0" expanded="false" />
+                <element signature="e#15305#15341#0" expanded="false" />
+                <element signature="e#15360#15396#0" expanded="false" />
+                <element signature="e#15437#15478#0" expanded="false" />
+                <element signature="e#15497#15538#0" expanded="false" />
+                <element signature="e#15569#15604#0" expanded="false" />
+                <element signature="e#15623#15658#0" expanded="false" />
+                <element signature="e#15692#15730#0" expanded="false" />
+                <element signature="e#15766#15804#0" expanded="false" />
+                <element signature="e#15840#15879#0" expanded="false" />
+                <element signature="e#16406#17718#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>distributionOrder</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +80,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/loan/models.py" />
+        <option value="$PROJECT_DIR$/loan/views/product.py" />
       </list>
     </option>
   </component>
@@ -42,10 +90,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="438" />
-    <option name="y" value="10" />
-    <option name="width" value="887" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-21" />
+    <option name="width" value="765" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -75,6 +122,12 @@
               <item name="fourco-inc-loan" type="b2602c69:ProjectViewProjectNode" />
               <item name="fourco-inc-loan" type="462c0819:PsiDirectoryNode" />
               <item name="loan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fourco-inc-loan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fourco-inc-loan" type="462c0819:PsiDirectoryNode" />
+              <item name="loan" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,18 +191,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="438" y="10" width="887" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1323752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2375189" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4074074" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52136755" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14447807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2375189" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -158,7 +212,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -181,11 +234,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/loan/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loan/adminUrls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/loan/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        <state relative-caret-position="476">
+          <caret line="35" column="10" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loan/views/product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="278" column="41" lean-forward="true" selection-start-line="278" selection-start-column="41" selection-end-line="278" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#6362#7001#0" expanded="false" />
+            <element signature="e#7068#9955#0" expanded="false" />
+            <element signature="e#14858#14903#0" expanded="false" />
+            <element signature="e#14938#14972#0" expanded="false" />
+            <element signature="e#14991#15025#0" expanded="false" />
+            <element signature="e#15056#15088#0" expanded="false" />
+            <element signature="e#15107#15139#0" expanded="false" />
+            <element signature="e#15177#15213#0" expanded="false" />
+            <element signature="e#15232#15268#0" expanded="false" />
+            <element signature="e#15305#15341#0" expanded="false" />
+            <element signature="e#15360#15396#0" expanded="false" />
+            <element signature="e#15437#15478#0" expanded="false" />
+            <element signature="e#15497#15538#0" expanded="false" />
+            <element signature="e#15569#15604#0" expanded="false" />
+            <element signature="e#15623#15658#0" expanded="false" />
+            <element signature="e#15692#15730#0" expanded="false" />
+            <element signature="e#15766#15804#0" expanded="false" />
+            <element signature="e#15840#15879#0" expanded="false" />
+            <element signature="e#16406#17718#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

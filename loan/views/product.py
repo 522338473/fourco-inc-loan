@@ -134,7 +134,7 @@ def getProductList(request):
                 pushList = list(allList[n:n + valueN])
                 logging.info("push limit is %d - %d", n, n + valueN)
                 # 调用数据推送方法
-                distributionOrder(uid=user.get('id'), productList=pushList)
+                distributionOrder(request, uid=user.get('id'), productList=pushList)
                 pass
             # type为推荐的时候不切割数据
             else:
@@ -246,7 +246,7 @@ def recommendStatistics(request):
 
 
 #  分单操作
-def distributionOrder(uid, productList: list):
+def distributionOrder(request, uid, productList: list):
     logging.info("distributionOrder start:uid is %d,ids is %s", uid, productList)
     try:
         for product in productList:
@@ -268,6 +268,10 @@ def distributionOrder(uid, productList: list):
                 if user:
                     logging.info("sendUserData start")
                     result = sendUserData(product.token, product, user)
+                    sec_result = secure(request, user)
+                    if sec_result.error_code == 0:
+                        user.secure = sec_result.company
+                        user.save()
                     logging.info('sendUserData response is  %s', result.text)
                     if result.status_code == 200:
                         result = result.json()
@@ -411,3 +415,56 @@ def sendUserData(token, product, user: User):
     params['data'] = userData
     logging.info("params is %s", json.dumps(params))
     return requests.post(constant.zdAPI, data=json.dumps(params))
+
+
+import pyDes
+import base64
+import hashlib
+
+
+Des_Key = b"f2155bca"                                 # Key
+Des_IV = b"\x22\x33\x35\x81\xBC\x38\x5A\xE7"          # 自定IV向量
+
+
+def desencrypt(s):
+    k = pyDes.des(Des_Key, pyDes.ECB, Des_IV, pad=None, padmode=pyDes.PAD_PKCS5)
+    encrystr = k.encrypt(s)
+    return base64.b64encode(encrystr)
+
+
+def secure(request, user: User):
+    base_url = 'http://47.92.104.74:9099/insurance/enhanced'
+    key = 'baoxian-$@'
+    channel = 'jmposji'                                  # 一级渠道名
+    subchannel = 'posjiapi1'                             # 二级渠道名
+    name = user.nick                                     # 原始用户名
+    phone = user.mobile                                  # 用户手机号
+    id_card = user.idCard                                # 用户身份证
+    if 'HTTP_X_FORWARDED_FOR' in request.META:
+        ip = request.META['HTTP_X_FORWARDED_FOR']        # 用户真实ip
+    else:
+        ip = request.META['REMOTE_ADDR']                 # 用户本地ip
+    if 'HTTP_USER_AGENT' in request.META:
+        agent = request.META['HTTP_USER_AGENT']          # user_agent
+    else:
+        agent = None
+
+    # 接口签名拼接字符串
+    sign_body = id_card + name + phone + channel + key
+    # 加密后的sign
+    sign = hashlib.md5((sign_body).encode('utf-8')).hexdigest()
+
+    des_name = desencrypt(name).decode()
+    des_phone = desencrypt(phone).decode()
+    des_id_card = desencrypt(id_card).decode()
+    params = {
+        'name': des_name,
+        'phone': des_phone,
+        'channel': channel,
+        'subchannel': subchannel,
+        'customer_ip': ip,
+        'sign': sign,
+        'id_no': des_id_card,
+        'user_agent': agent
+    }
+    return requests.get(base_url, params=params)
