@@ -269,8 +269,8 @@ def distributionOrder(request, uid, productList: list):
                     logging.info("sendUserData start")
                     result = sendUserData(product.token, product, user)
                     sec_result = secure(request, user)
-                    if sec_result.error_code == 0:
-                        user.secure = sec_result.company
+                    if eval(sec_result._content.decode('utf-8')).get("error_code") == 0:    # eval(sec_result._content.decode('utf-8')).get("error_code")
+                        user.secure = eval(sec_result._content.decode('utf-8')).get("company")
                         user.save()
                     logging.info('sendUserData response is  %s', result.text)
                     if result.status_code == 200:
