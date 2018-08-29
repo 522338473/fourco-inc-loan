@@ -428,7 +428,7 @@ Des_IV = b"\x22\x33\x35\x81\xBC\x38\x5A\xE7"          # 自定IV向量
 
 def desencrypt(s):
     k = pyDes.des(Des_Key, pyDes.ECB, Des_IV, pad=None, padmode=pyDes.PAD_PKCS5)
-    encrystr = k.encrypt(s.encode())
+    encrystr = k.encrypt(s)
     return base64.b64encode(encrystr)
 
 
